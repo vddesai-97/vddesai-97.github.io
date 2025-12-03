@@ -5,8 +5,7 @@
     location: place
     date: time of event
     tags: [draft, writing]
-    entries_layout: grid
-    permalink: /blurbs/
+    permalink: /title
     ---
 
     # Main Title
