@@ -2,10 +2,10 @@
     layout: newsletter
     title: "Honoring the Family"
     author: Clark
-    location: Mexico City, MX
+    location: Mexico City, CDMX, MX
      ---
 
-Intro....
+We finally made it. For several years Vrinda and I have been wanting to travel internationally after we completed our graduate studies but before we became occupied with advancing professionally, finding a city/home to live in, and becoming invested in family and community. Vrinda was kind enough to wait up for me even as the months (18 to be exact) dragged on between her graduation and mine; she did not regret that time as Asheville quickly became a second home for her. During that time, we also decided that our travels would be undertaken in a van, small enough to be driven easily on foreign streets but large enough to live in. This would allow us to travel at our own pace and explore locations far off the beaten path, while bringing our four-legged friend along for the adventure. Finding the right van proved a challenge, but we can now travel throughout the Americas, starting, of course, in Mexico.
 
 Our first major stop after crossing the border was Mexico City, just in time for Dia de Los Muertos. This was not a coincidence, as once we (Vrinda) realized that the camper van wouldn't be finished in a month or two, we also recognized that we would be passing through just in time for one of the largest - and most unique - national holidays Mexico has to offer. The Day of the Dead  is a time of the year when everyone honors ancestors, celebrities, and community members who have passed by keeping their memory alive in the form of ofrendas, food, stories, music, parades, and so much more. While the holiday officially fell on the weekend of 1st of November this year, we saw special events the entire week throughout the country leading up to the actual day (and several more after as well). 
 
