@@ -1,0 +1,10 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "stinkbug/skins/{{ site.stinkbug_skin | default: 'default' }}"; // skin
+@import "stinkbug"; // main partials
+

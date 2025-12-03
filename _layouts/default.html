@@ -9,15 +9,20 @@
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
     span.s1 {font-kerning: none}
+    span.Apple-tab-span {white-space:pre}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">--- --- {% include copyright.html %} {% include head.html %} {% include head/custom.html %} {% include_cached skip-links.html %} {% include_cached masthead.html %}</span></p>
-<p class="p1"><span class="s1">{{ content }} {% include after-content.html %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% if site.search == true %}</span></p>
-<p class="p1"><span class="s1">{% include_cached search/search_form.html %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<p class="p1"><span class="s1">{% include footer/custom.html %} {% include_cached footer.html %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% include scripts.html %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">&lt;!DOCTYPE html&gt;</span></p>
+<p class="p1"><span class="s1">&lt;html&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;head&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;title&gt; { { page.title } }&lt;/title&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/head&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;body&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;header&gt;{% include nav_list.html %}&lt;/header&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;main&gt;{{ content }}&lt;/main&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;footer&gt;{% include footer.html %}&lt;/footer&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/body&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/html&gt;</span></p>
 </body>
 </html>

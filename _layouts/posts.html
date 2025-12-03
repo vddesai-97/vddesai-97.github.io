@@ -1,30 +1,22 @@
----
-layout: archive
----
-
-{{ content }}
-
-<ul class="taxonomy__index">
-  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
-    <div class="entries-{{ entries_layout }}">
-      {% for post in year.items %}
-        {% include archive-single.html type=entries_layout %}
-      {% endfor %}
-    </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{% endfor %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2113.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">--- layout: default --- {% if page.header.overlay_color or page.header.overlay_image or page.header.image %} {% include page__hero.html %} {% elsif page.header.video.id and page.header.video.provider %} {% include page__hero_video.html %} {% endif %} {% if page.url != "/" and site.breadcrumbs %} {% unless paginator %} {% include breadcrumbs.html %} {% endunless %} {% endif %}</span></p>
+<p class="p1"><span class="s1">{% include sidebar.html %}</span></p>
+<p class="p1"><span class="s1">{% unless page.header.overlay_color or page.header.overlay_image %}</span></p>
+<p class="p2"><span class="s1"><b>{{ page.title }}</b></span></p>
+<p class="p1"><span class="s1">{% endunless %} {{ content }}<span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>
