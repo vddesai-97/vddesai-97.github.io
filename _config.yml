@@ -216,6 +216,13 @@ pagination:
     before: 2
     after: 2
 
+# Mapping
+mapping:
+  provider: openstreetmap
+  zoom: 8
+  dimensions:	 
+	  width: 600
+	  height:400
 
 # Plugins (previously gems:)
 plugins:
