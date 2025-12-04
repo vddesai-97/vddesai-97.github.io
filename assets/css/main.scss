@@ -5,6 +5,17 @@ search: false
 
 @charset "utf-8";
 
-@import "stinkbug/skins/{{ site.stinkbug_skin | default: 'default' }}"; // skin
-@import "stinkbug"; // main partials
-
+@import 
+  "reset",
+  "variables",
+  "syntax-highlighting",
+  "mixins",
+  "font",
+  "base",
+  "masthead",
+  "menu",
+  "post-list",
+  "article",
+  "footnotes",
+  "search"
+;
