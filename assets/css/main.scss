@@ -5,7 +5,11 @@ search: false
 
 @charset "utf-8";
 
-@import 
+$asset_url: '{{ '/assets' | absolute_url }}';
+
+@use 'sass:color';
+
+@import
   "reset",
   "variables",
   "syntax-highlighting",

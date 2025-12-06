@@ -1,40 +1,72 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2113.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.s3 {font: 12.0px 'Apple Symbols'; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-    span.s4 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-    ul.ul1 {list-style-type: disc}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">--- layout: default --- {% if site.data.menu and site.paginate and site.paginate_path and paginator.page &gt; 1 %} {% include menu.html %} {% elsif site.paginate and site.paginate_path and paginator.page &gt; 1 %} {% include back-link.html %} {% else %}</span></p>
-<p class="p1"><span class="s1">{% include menu.html %} {% if site.title %}</span></p>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1">{{ site.title }}<span class="Apple-converted-space"> </span></span></h1>
-<p class="p1"><span class="s1">{% endif %} {% if site.title %}</span></p>
-<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1">{{ site.description }}<span class="Apple-converted-space"> </span></span></h2>
-<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1">{% if site.paginate and site.paginate_path and paginator.page &gt; 1 %} Page {{ paginator.page }} {% else %} Contents {% endif %}<span class="Apple-converted-space"> </span></span></h1>
-<p class="p1"><span class="s1">{% if site.paginate and site.paginate_path %}</span></p>
-<ul class="ul1">
-  <li class="li1"><span class="s2"></span><span class="s1">{% for post in paginator.posts %} {% include post-list-item.html %} {% endfor %}<span class="Apple-converted-space"> </span></span></li>
-</ul>
-<p class="p1"><span class="s1">{% if paginator.total_pages &gt; 1 %}</span></p>
-<p class="p1"><span class="s1">{% if paginator.next_page %} <a href="file:///Users/vrindadesai/Documents/vddesai-97.github.io/_layouts/%7B%7B%20paginator.next_page_path%20%7C%20prepend:%20site.baseurl%20%20%7D%7D"><span class="s3">⟨</span><span class="s4"> Older</span></a> {% else %}   {% endif %} {{ paginator.page }} of {{ paginator.total_pages }} {% if paginator.previous_page %} <a href="file:///Users/vrindadesai/Documents/vddesai-97.github.io/_layouts/%7B%7B%20paginator.previous_page_path%20%7C%20prepend:%20site.baseurl%20%7D%7D"><span class="s4">Newer </span><span class="s3">⟩</span></a> {% else %}   {% endif %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% endif %} {% else %}</span></p>
-<ul class="ul1">
-  <li class="li1"><span class="s2"></span><span class="s1">{% for post in site.posts %} {% include post-list-item.html %} {% endfor %}<span class="Apple-converted-space"> </span></span></li>
-</ul>
-<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
-</body>
-</html>
+---
+layout: default
+---
+
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+  <header class="site-masthead">
+    {% include menu.html %}
+    {% if site.title %}
+      <h1>
+        {{ site.title }}
+      </h1>
+    {% endif %}
+    {% if site.title %}
+      <h4>
+        {{ site.description }}
+      </h4>
+    {% endif %}
+  </header>
+{% endif %}
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+  <h1 class="content-title divided">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+      Page {{ paginator.page }}
+    {% else %}
+      Contents
+    {% endif %}
+  </h1>
+
+  {% if site.paginate and site.paginate_path %}
+    
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+
+    {% if paginator.total_pages > 1 %}
+
+      <div class="post-pagination">
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+      </div>
+
+    {% endif %}
+
+  {% else %}
+
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+  
+  {% endif %}
+    
+
+</main>

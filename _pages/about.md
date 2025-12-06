@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About 
+permalink: /about/
 ---
 
 Welcome to Arya and the Stinkbug, a place where we share stories and 

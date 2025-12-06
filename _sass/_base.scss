@@ -154,7 +154,7 @@ figcaption {
   text-transform: uppercase;
   &:hover,
   &:focus {
-    background: lighten($brand-color, 2.5%);
+    background: color.adjust($brand-color, $lightness: 2.5%);
     border-color: $text-color;
     margin-top: 0;
   }
