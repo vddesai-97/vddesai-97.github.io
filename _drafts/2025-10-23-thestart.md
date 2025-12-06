@@ -1,7 +1,19 @@
-What the hell happened? Am I right? We were supposed to be in Mexico by June but now it’s mid-October and we are just now crossing the border.
+---
+layout: post
+title: The Start
+date: 2025-10-06
+author: Vrinda Desai
+permalink: /blurbs/the-start
+---
+
+What the hell happened? Am I right? We were supposed to be in Mexico by June but now it’s October and we are just starting to head South to cross the border.
 
 Let me tell you — the journey from June to now hasn’t been pleasant but…it’s had its moments.
 
-I’ll back up a bit though — we didn’t have a camper van plain and simple by May, so we pivoted. We got an emptied out cargo van whose mechanics were sound and slowly but very eagerly (and painfully) started converting it into our home. I thought it was going take us a month, maybe two to do the main conversion, but no. Oh boy, it took us 4 whole darn months to do this with many many obstacles.
+I’ll back up a bit though — we didn’t have a camper van plain and simple by May, so we pivoted. We got an emptied out cargo van whose mechanics were sound and slowly but very eagerly (and painfully) we started converting it into our home. I (optimistically, hopelessly) thought it was going take us a month, maybe two to do the main conversion, but no. Oh boy, no. It took us 4 whole darn months to do this with many, many obstacles. 
 
-This summer was hard, and I’m sure it wasn’t necessary or needed and I definitely didn’t help, as those who know me very well know how I can be. Not only did we have a car that was barely tall enough for Clark, it was also curved all over. Curves do not go well with a first time DIY project. We had to reiterate and reinforce and rebuild structures throughout the entire process.
+First, the car was curved so that was a built-in difficulty that precluded us from going the easy way out and putting in thrifted cabinets. One that I had not considered; curves do not go well for a first time DIY project. We had to reiterate and reinforce and rebuild structures throughout the entire process. Next, was me. Me and my ideas and my perception of how long a step or a piece would take. I had so many ideas on how we could build this out and make it dual-purposed and maximize space and comfort. Poor Clark. He tried his best and - if the idea was solid - succeeded, to implement and work with my multitude of variations on variations on any one piece. My brain just went too fast for both this project and him. Those were the main obstacles. The rest was just exhaustion, being displaced even though we were with our families, and eagerness to be on the road already (all me again...mostly). 
+
+Despite all of this, this summer has had one huge benefit. The time I got to spend with my family. It has been about 10 years since I have spent more than a couple of weeks at home. 4 months was challenging, but it was full of growth, re-getting to know each other as the adults we now all are -- siblings and parents both, and Ba's chai every morning. 
+
+The path here was rough, but full of love. And the looming adventure is totally worth it. 

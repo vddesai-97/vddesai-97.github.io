@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$asset_url: '{{ '/assets' | absolute_url }}';
+
+@use 'sass:color';
+
+@import
+  "reset",
+  "variables",
+  "syntax-highlighting",
+  "mixins",
+  "font",
+  "base",
+  "masthead",
+  "menu",
+  "post-list",
+  "article",
+  "footnotes",
+  "search"
+;
