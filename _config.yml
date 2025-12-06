@@ -212,9 +212,9 @@ pagination:
     after: 2
 
 # Mapping
-maps:
-  google:
-    api_key: AIzaSyA5B8s3wN7Meo81vWiYTDn2dWCLhoBpXek
+#maps:
+#  google:
+#    api_key: AIzaSyA5B8s3wN7Meo81vWiYTDn2dWCLhoBpXek
 
 # Plugins (previously gems:)
 plugins:
