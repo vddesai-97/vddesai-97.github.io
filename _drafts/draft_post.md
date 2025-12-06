@@ -1,10 +1,16 @@
     ---
-    layout: newsletter
+    layout: post
     title: "My Awesome Draft Post"
     author: Your Name
     location: place
-    category: drafts
+    date: YYYY-MM-DD
+    categories: DeepDive or Blurbs
     tags: [draft, writing]
+    entries_layout: grid
+    permalink: /blurbs/
+    mapping:
+    		latitude:
+		longitude:
     ---
 
     # Main Title
@@ -16,3 +22,5 @@
         - Sub-item
     1. First item
     2. Second item
+    
+    {% render_map %}

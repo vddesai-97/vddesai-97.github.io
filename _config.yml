@@ -1,10 +1,5 @@
 # Config file for settings of the entire site
 
-# Theme Settings
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
 rtl                      : false
@@ -19,7 +14,7 @@ repository               : "vddesai-97/vddesai-97.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : false #use to help navigate if we have deep sites
+breadcrumbs              : true #use to help navigate if we have deep sites
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -197,7 +192,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:title/ #permalink: /posts/:title
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
@@ -216,6 +211,10 @@ pagination:
     before: 2
     after: 2
 
+# Mapping
+maps:
+  google:
+    api_key: AIzaSyA5B8s3wN7Meo81vWiYTDn2dWCLhoBpXek
 
 # Plugins (previously gems:)
 plugins:
@@ -224,6 +223,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-maps
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -284,3 +284,12 @@ defaults:
       comments: true
       share: true
       related: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
