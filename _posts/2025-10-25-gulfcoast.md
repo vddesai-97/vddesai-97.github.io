@@ -3,7 +3,7 @@ layout: post
 title: The Gulf Coast
 author: Clark
 date: 2025-10-25
-catgories: blurb
+categories: blurb
 ---
  
 You might be thinking to yourself, “hey, I thought these guys told me they were going abroad?” I can assure you that we still plan to! But first, a quick detour. 
