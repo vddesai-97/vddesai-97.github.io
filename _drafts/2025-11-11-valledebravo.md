@@ -3,6 +3,7 @@
     title: “The Kindness of Strangers”
     author: Clark
     location: Valle de Bravo, (State of) Mexico, MX
+    date: 11-11-25
     - 
      
 After a wonderful first week in Mexico City, we were ready for something a little slower and with fewer people. Originally aiming to climb a nearby volcano (Nevado de Toluca) that turned out to be closed, we instead pivoted to the nearby Lake Avandaro. We could not have chosen better, although at first we weren’t so sure of our choice. 
