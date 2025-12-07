@@ -8,6 +8,11 @@
           Home
         </a>
       </li>
+      <li>
+        <a href="{{ '/route/' | prepend: site.baseurl }}">
+          Our Route
+        </a>
+      </li>
     {% for item in site.data.menu %}
       <li {% if page.url == item.url %}class="active"{% endif %}>
         {% if item.url contains 'http' %}
