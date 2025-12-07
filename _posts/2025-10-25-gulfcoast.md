@@ -1,11 +1,11 @@
-    —
-    layout: blurb
-    title: “The Gulf Coast”
-    author: Clark
-    date: 10-25-25
-    location: Mustang Island, TX, USA
-    —
-    
+---
+layout: post
+title: The Gulf Coast
+author: Clark
+date: 2025-10-25
+catgories: blurb
+---
+ 
 You might be thinking to yourself, “hey, I thought these guys told me they were going abroad?” I can assure you that we still plan to! But first, a quick detour. 
 
 We arrived in San Antonio last weekend with a bit of a sore throat, but only planning to stay ~4-5 days while we took in the city our good friend Sean and finished up a couple of projects to make the van fully livable. Sean even took Friday off to show us around. Unfortunately, he spent much of the weekend re-watching the first season of 'The Hart of Dixie' while the two of us alternated naps (we also spent one unlucky evening watching a Vikings game...). Bless Sean, as he was gracious and patient and brought food and medicine while we slowly recovered. And so, while we had intended to cross the border this week, we didn't complete the van until Friday and did not want to cross the border on the weekend as we heard it could be a bit more hectic then.
