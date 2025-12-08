@@ -224,6 +224,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-maps
+  - jekyll-google-photos
 
 # mimic GitHub Pages with --safe
 whitelist:
