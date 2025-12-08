@@ -1,11 +1,11 @@
-    —
-    layout: newsletter
-    title: “The Kindness of Strangers”
-    author: Clark
-    location: Valle de Bravo, (State of) Mexico, MX
-    date: 11-11-25
-    - 
-     
+---
+layout: post
+title: The Kindness of Strangers
+date: 2025-11-11
+categories: mexico
+author: Clark
+location: Valle de Bravo, Mexico City, MX
+---       
 After a wonderful first week in Mexico City, we were ready for something a little slower and with fewer people. Originally aiming to climb a nearby volcano (Nevado de Toluca) that turned out to be closed, we instead pivoted to the nearby Lake Avandaro. We could not have chosen better, although at first we weren’t so sure of our choice. 
 
 A mere 142 km from Mexico City and not yet fully appreciative to both the conditions of Mexico’s roads or the time to replenish living supplies that we might take for granted in the United States, yours truly thought we might be able to leave the City in the early afternoon, make a couple of quick stops, and arrive at the lake in time for the sunset. We did arrive in time for the sunset… the next day. 

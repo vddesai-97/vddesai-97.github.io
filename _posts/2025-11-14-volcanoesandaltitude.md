@@ -1,10 +1,11 @@
-    --
-    layout: newsletter
-    title: "Volcanoes, Altitude, and Mountain Dogs"
-    author: Clark
-    date: 11-14-25
-    location: Parque Itzaccihuatl-Popocatepetl, (State of) Mexico City, MX
-    --
+---
+layout: post
+title: Volcanoes, Altitude, and Mountain Dog
+date: 2025-11-14
+categories: mexico
+author: Clark
+location: Parque Itzaccihuatl-Popocatepetl, Mexico City, MX
+---  
 
 Having struck out at Nevado de Toluca but wanting to get our (especially my) hiking fix in, we traveled a bit south of Mexico City to the volcanoes of Popo and Itza, the second and third highest peaks in Mexico respectively, with each coming in north of 17,000 feet. Popo is still active, and coming in we were trated to some spectacular smoke plumes from his summit. Hiking on Popo is not allowed. Itza, on the other hand, offers several different levels of hiking depending on gear, acclimation time, and fitness levels. Understanding that we are not currently fully equipped with any of these, we resolved to ascend as far as we felt comfortable.
 

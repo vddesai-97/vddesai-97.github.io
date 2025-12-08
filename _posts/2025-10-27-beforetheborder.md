@@ -2,8 +2,9 @@
 layout: post
 title: Before the Border
 date: 2025-10-27
-categories: blurb
+categories: mexico
 author: Vrinda
+location: Eagle Pass, TX, USA
 ---
 
 We’re about to cross the border and the nerves are high, the shits are shittin, and we’re gonna do it. As we approach the border, we do seem to be making stops at ‘American’ staples like McDonald’s and Walmart for the basics, even though when in America, we almost never go to these places. 
