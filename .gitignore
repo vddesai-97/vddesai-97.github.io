@@ -1,5 +1,25 @@
-_site
+
 .sass-cache
-.jekyll-cache
+
 .jekyll-metadata
-vendor
+
+
+# Jekyll build output
+_site/
+
+# Jekyll cache files
+.jekyll-cache/
+
+# Bundler dependencies
+.bundle/
+vendor/bundle/
+
+
+# Log files
+*.log
+
+# Editor/IDE specific files (examples)
+.DS_Store
+.vscode/
+.idea/
+
