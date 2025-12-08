@@ -24,3 +24,9 @@
     2. Second item
     
     {% render_map %}
+
+
+    \addpic final van build (us living in the van)
+{% include figure popup=true image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
+
+{% google_photos <link_to_album> <max_width> %}
