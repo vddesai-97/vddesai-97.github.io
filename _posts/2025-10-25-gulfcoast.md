@@ -3,7 +3,8 @@ layout: post
 title: The Gulf Coast
 author: Clark
 date: 2025-10-25
-categories: blurb
+categories: mexico
+location: Corpus Christi, TX, USA
 ---
  
 You might be thinking to yourself, “hey, I thought these guys told me they were going abroad?” I can assure you that we still plan to! But first, a quick detour. 
