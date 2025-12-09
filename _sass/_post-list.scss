@@ -51,6 +51,15 @@
   opacity: .6;
 }
 
+.post-link__location {
+  color: $muted-text-color;
+  display: block;
+  margin-right: 4em;
+  @media (min-width: $on-tablet) {
+    padding: .25em 0;
+  }
+}
+
 .post-pagination {
   margin-top: 4rem;
   font-size: .75em;
