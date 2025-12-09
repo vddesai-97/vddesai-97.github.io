@@ -95,8 +95,27 @@ img {
   margin: 2em auto;
 }
 
+figure {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2em 0;
+}
+
 figure img {
-  margin: 2em auto 1em;
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+figure.half > a,
+figure.half > img {
+  width: calc(50% - 0.5em);
+}
+
+figure.third > a,
+figure.third > img {
+  width: calc(33.3333% - 0.5em);
 }
 
 figcaption {
