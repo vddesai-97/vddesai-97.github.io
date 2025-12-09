@@ -5,10 +5,21 @@ date: 2025-11-11
 categories: mexico
 author: Clark
 location: Valle de Bravo, Mexico City, MX
+gallery:
+  - url: assets/images/2025-11-11-PanoPena.jpg
+    image_path: assets/images/2025-11-11-PanoPena.jpg
+    alt: "View at the of La Pena"
+    title: "View at the of La Pena"
+  - url: assets/images/2025-11-11-Vlapena.jpg
+    image_path: assets/images/2025-11-11-Vlapena.jpg
+    alt: "Vrinda admiring the view"
+    title: "Vrinda admiring the view"
 ---       
 After a wonderful first week in Mexico City, we were ready for something a little slower and with fewer people. Originally aiming to climb a nearby volcano (Nevado de Toluca) that turned out to be closed, we instead pivoted to the nearby Lake Avandaro. We could not have chosen better, although at first we weren’t so sure of our choice. 
 
 A mere 142 km from Mexico City and not yet fully appreciative to both the conditions of Mexico’s roads or the time to replenish living supplies that we might take for granted in the United States, yours truly thought we might be able to leave the City in the early afternoon, make a couple of quick stops, and arrive at the lake in time for the sunset. We did arrive in time for the sunset… the next day. 
+
+{% include figure.html popup=true image_path="/assets/images/2025-11-11-SunsetLake.jpg" %}
 
 There are several lessons learned in those intervening 24 hours. These included:
  - Take the toll road (although they are pretty expensive) or budget at least an extra hour to whatever Google Maps considers the travel time. In this case, we actually had closer to a 2-3 hour delay thanks to a multi-phase construction project through the non-toll mountain pass that led to over an hour of standstill traffic as we waited for the single lane to clear.
@@ -28,5 +39,7 @@ It was quite the two days. And yet, despite our struggles, the days were enjoyab
 And this brings us to Chago, Kevin, and Ruth, some of the kindest folks we have met so far. Chago was a gracious host, not only for us but for seemingly endless members of the community who stopped by to use his dock for fishing,  boating, and dragging up an invasive floating plant, and often stayed for a meal or drink. While we stayed for only three days, during that time Chago helped us fill our water and try to fill those pesky propane tanks; after we weren’t able to use propane from some of the RV’s stored on site, he took our tanks into town to see if he could help us there. One afternoon, he waved us over to join some of his employees for beer and some tacos with delicious salsa. Upon hearing that Vrinda was vegetarian, he disappeared for five minutes, only to return with some cooked eggs and some of the best pickled chiles and cucumbers we have ever had. While our Spanish isn’t great, he and his employees were patient enough to have very nice conversation with us (my favorite moment was when he told us that Vrinda had a great smile, and he was amused to learn this was one of my earliest observations of her too). As we were leaving the next day, unprompted, he gave our car a full wash, something it badly needed after a week in the desert and city. 
 
 Kevin and Ruth are a Canadian couple who have been traveling for over a decade, and have stayed at Chago’s for several years. They recently began renting a small house that Chago built on the property as a kind of home-base for their travels and visiting family. They not only gave us tips for our stay there (helping us navigate the local taxi system and recommending a hike with a spectacular view of the lake \addpic) but graciously hosted us for beers one evening and gave us an incredible amount of recommendations for the rest of our travels throughout Mexico, something we were extremely grateful for having planned little beyond Mexico City. Several future posts will be locations that we can specifically thank Kevin and Ruth for.
+
+{% include gallery.html id="gallery" %}
 
 This is by no means an exhaustive list of all the kindness that we have experienced while traveling (others that we would especially call out include a Gujarati chef in Oaxaca City who made excellent chai and the trout cook in Pueblos Mancomunados who became our neighbor for half a week and served us bread and hot chocolate after a particularly cold hike). We definitely get funny or suspicious looks in our “Stinkbug” sometimes, but nearly all of our interactions have been warm and friendly, something we hope we have reciprocated as best we can.
