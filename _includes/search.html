@@ -1,0 +1,9 @@
+<div class="header-search">
+  <form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      {{ 'Search' }}
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" />
+  </form>
+</div>
+
