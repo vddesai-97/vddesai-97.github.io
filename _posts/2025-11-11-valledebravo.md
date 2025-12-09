@@ -5,15 +5,6 @@ date: 2025-11-11
 categories: mexico
 author: Clark
 location: Valle de Bravo, (State of) Mexico City, MX
-gallery:
-  - url: assets/images/2025-11-11-PanoPena.jpg
-    image_path: assets/images/2025-11-11-PanoPena.jpg
-    alt: "View at the of La Pena"
-    title: "View at the of La Pena"
-  - url: assets/images/2025-11-11-Vlapena.jpg
-    image_path: assets/images/2025-11-11-Vlapena.jpg
-    alt: "Vrinda admiring the view"
-    title: "Vrinda admiring the view"
 ---       
 After a wonderful first week in Mexico City, we were ready for something a little slower and with fewer people. Originally aiming to climb a nearby volcano (Nevado de Toluca) that turned out to be closed, we instead pivoted to the nearby Lake Avandaro. We could not have chosen better, although at first we weren’t so sure of our choice. 
 
@@ -40,6 +31,9 @@ And this brings us to Chago, Kevin, and Ruth, some of the kindest folks we have 
 
 Kevin and Ruth are a Canadian couple who have been traveling in Mexico for over a decade, and have stayed at Chago’s for several years. They recently began renting a small house that Chago built on the property as a kind of home-base for their travels and visiting family. They not only gave us tips for our stay there (helping us navigate the local taxi system and recommending a hike with a spectacular view of the lake) but graciously hosted us for beers one evening and gave us an incredible amount of recommendations for the rest of our travels throughout Mexico: something we were extremely grateful for having planned little beyond Mexico City. Several future posts will be in locations that we can specifically thank Kevin and Ruth for.
 
-{% include gallery.html id="gallery" %}
+{% include figure.html popup=true image_path="/assets/images/2025-11-11-PanoPena.jpg" %}
+
 
 This is by no means an exhaustive list of all the kindness that we have experienced while traveling (other folks that we can highlight include a Gujarati chef in Oaxaca City who made excellent chai and gave us more recommendations, and the trout cook in Pueblos Mancomunados who became our neighbor for half a week and served us bread and hot chocolate after a particularly cold hike). We definitely get funny or suspicious looks in our “Stinkbug” sometimes, but nearly all of our interactions have been warm and friendly, something we hope we have reciprocated as best we can.
+
+{% include figure.html popup=true image_path="/assets/images/2025-11-11-Vlapena.jpg" %}
