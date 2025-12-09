@@ -3,7 +3,7 @@ layout: post
 title: The Gulf Coast
 author: Clark
 date: 2025-10-25
-categories: mexico
+categories: usa
 location: Corpus Christi, TX, USA
 ---
  
