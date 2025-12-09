@@ -2,11 +2,8 @@
 layout: post
 title: Before the Border
 date: 2025-10-27
-permalink: /blurbs/before-the-border
-author: Vrinda Desai
-mapping:
-	latitude:
-	longitude: 
+categories: blurb
+author: Vrinda
 ---
 
 We’re about to cross the border and the nerves are high, the shits are shittin, and we’re gonna do it. As we approach the border, we do seem to be making stops at ‘American’ staples like McDonald’s and Walmart for the basics, even though when in America, we almost never go to these places. 

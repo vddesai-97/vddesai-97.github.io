@@ -1,0 +1,12 @@
+$brand-color:         #7a9663;
+$highlight:           #063467; 
+$text-color:          #ad5031;
+$muted-text-color:    #e66c3c;
+$article-color:       #efd4c4;
+
+
+$brand-color:         #f9af4d;
+$highlight:           #7382c4; 
+$text-color:          #303030;
+$muted-text-color:    #fe8b79;
+$article-color:       #f7ede1;
