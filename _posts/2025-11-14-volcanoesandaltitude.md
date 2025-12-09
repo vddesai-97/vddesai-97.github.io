@@ -5,6 +5,19 @@ date: 2025-11-14
 categories: mexico
 author: Clark
 location: Parque Itzaccihuatl-Popocatepetl, Mexico City, MX
+gallery:
+  - url: /assets/images/2025-11-14-MorningCacti.jpg
+    image_path: /assets/images/2025-11-14-MorningCacti.jpg
+    alt: "Morning Sunrise"
+    title: "Morning Sunrise"
+  - url: /assets/images/2025-11-14-DogView.jpg
+    image_path: /assets/images/2025-11-14-DogView.jpg
+    alt: "Our way back down"
+    title: "Our way back down"
+  - url: /assets/images/2025-11-14-GuideDog.jpg
+    image_path: /assets/images/2025-11-14-GuideDog.jpg
+    alt: "Mountain Guide Dog"
+    title: "Mountain Guide Dog"
 ---  
 
 Having struck out at Nevado de Toluca but wanting to get our (especially my) hiking fix in, we traveled a bit south of Mexico City to the volcanoes of Popo and Itza, the second and third highest peaks in Mexico respectively, with each coming in north of 17,000 feet. Popo is still active, and coming in we were trated to some spectacular smoke plumes from his summit. Hiking on Popo is not allowed. Itza, on the other hand, offers several different levels of hiking depending on gear, acclimation time, and fitness levels. Understanding that we are not currently fully equipped with any of these, we resolved to ascend as far as we felt comfortable.
@@ -12,5 +25,7 @@ Having struck out at Nevado de Toluca but wanting to get our (especially my) hik
 Before we began, we experienced our first really cold night in our van. Even at ~11K where we parked (the highest we could go with Arya into the park), the nightime temperature dropped close to freezing. While our van is insulated, we do have many windows, a small fan for air flow, and no heater. It turns out we can be comfortable in these conditions, but it does require some planning before bed to make sure all blankets, sleeping bags, and clothes are laid out ahead of time and at least wake in the night to add the next necessary layer. Needless to saay, we slept better the night after we hiked - and now knew these tips - than the night before.
 
 We began our climb in some spectacular moonlight, needing our headlamps only as we passed below trees. A fantastic sunrise was enjoyed along the way (only moderately disrutped by some bad tofu from the night before), and we reached the final campsite above 13K a little after 7am. Unfortunately, this was also the time that Vrinda began to feel unwell. The next hour and a half was a very slow hike and somewhat painful trek, as we tried to balance ample rest to account for the altitude with movement to warm our bodies, as this entire section of trail (1 km long and ~750 feet elevation gain) remained stubbornly below the ridgeline with the sun taunting us with its rays on the other side. Our spirits were boosted slightly when we were joined by three mountain dogs, who took turns kindly waiting for us, and then rubbing in their superiority by bounding ahead (they even had enough energy to do some play-fighting at one point). Finally we reached the First Portillo ("mountain pass") and enjoyed the sun for the first time since we saw it rise several hours before. 
+
+{% include gallery.html id="gallery" layout="half" caption="" %}
 
 Enjoying a long rest and some food and water, Vrinda declared that she would go no further, despite having recovered somewhat from her altitude sickness. I was not surprised, as she had already done an extraordinary job pushing to this point (14K!) and I knew the last hour had been very uncomfortable for her. We also noted that the last time we had attempted altitude of this magnitude, she had been hit right about the same time; we had hoped to be a bit better acclimated this trip having spent the last two weeks between 5-9K, but her body responded the same. From our pass we enjoyed a great view of Popo /addpic, but could no longer see Itza. Wanting one more peak, I convinced her to let me quickly "scramble" the next quarter mile to the Second Portillo, promising to be back in roughly half an hour (I was 35 minutes). While I enjoyed my short jaunt, I was joined by the momma mountain dog, who kept stopping to check in on me. I apprecited the company, and the view at the pass, before returning. Upon arriving, Vrinda expressed a bit of awe at my guide, as she told me she asked the dog to accompany me and, after giving her a bit of an eye roll, it obliged. As a token our of thanks, we gave the dog some water. Heartbreakingly, the dog grew attached, and followed us the remaining 4 miles down the mountain to the vistor center, where we had to keep Srya from befriending it and making our car even more crowded. The Stinkbug can only get so stinky!
