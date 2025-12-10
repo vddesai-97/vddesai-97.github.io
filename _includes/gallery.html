@@ -32,6 +32,7 @@
     {% endif %}
   {% endfor %}
   {% if include.caption %}
-    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+    <!-- <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption> -->
+     <figcaption>{{ include.caption | markdownify}}</figcaption>
   {% endif %}
 </figure>

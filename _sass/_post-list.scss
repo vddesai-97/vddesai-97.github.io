@@ -60,6 +60,16 @@
   }
 }
 
+.post-subheader {
+  color: $muted-text-color;
+  display: block;
+  margin-right: 4em;
+  text-align: center;
+  @media (min-width: $on-tablet) {
+    padding: .25em 0;
+  }
+}
+
 .post-pagination {
   margin-top: 4rem;
   font-size: .75em;
