@@ -58,7 +58,7 @@ atom_feed:
   hide                   : # true, false (default)
 
 
-search                   : true
+search                   : false
 search_full_content      : false #slows down search and load features
 search_provider          : lunr # algolia, google, can switch later if we want
 lunr:
