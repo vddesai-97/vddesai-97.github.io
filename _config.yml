@@ -62,7 +62,7 @@ search                   : false
 search_full_content      : false #slows down search and load features
 search_provider          : lunr # algolia, google, can switch later if we want
 lunr:
-  search_within_pages    : true
+  search_within_pages    : false
 
 # SEO Related
 google_site_verification :
