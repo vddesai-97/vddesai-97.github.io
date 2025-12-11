@@ -13,7 +13,7 @@ We arrived in San Antonio last weekend with a bit of flu-like symptoms, but only
 
 So now we're on Mustang Island instead, just about 30 minutes east of Corpus Christi - a  great suggestion by Sean. Vistors can drive directly onto this section of beach and camp, a perfect setup to test our now fully functional van. And test it we did, with scattered showers and wind the first day we alternated lovely walks on the beach (with sea turtle and pelican sightings along the way) and cozying up in our van, where we remained nice and dry (except for a very cuddly but slightly damp dog). So cozy that we fell asleep at an hour that would make even our parents say "You went to bed that early?!"
 
-{% include figure.html popup=true image_path="/assets/images/2025-10-25-ShellsandVan.JPG" %}
+{% include figure.html popup=true image_path="/assets/images/2025-10-25-ShellsandVan.jpg" %}
 <figcaption>Mollusks and shells we found washed up on the shore that caught Vrinda's eye.</figcaption>
 
 

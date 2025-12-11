@@ -11,8 +11,8 @@ ddlm:
     alt: "Dia De Los Muertos Parade"
     title: "Dia De Los Muertos Parade"
     class: "img1"
-  - url: /assets/images/2025-11-04-SoccerOfrenda.JPG
-    image_path: /assets/images/2025-11-04-SoccerOfrenda.JPG
+  - url: /assets/images/2025-11-04-SoccerOfrenda.jpg
+    image_path: /assets/images/2025-11-04-SoccerOfrenda.jpg
     alt: "FIFA Soccer Ofrenda"
     title: "FIFA Soccer Ofrenda"
     class: "img2"
