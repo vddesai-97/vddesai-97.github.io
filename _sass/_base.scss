@@ -92,14 +92,15 @@ img {
   display: flex;
   max-width: 100%;
   height: auto;
-  margin: 2em auto;
+  margin-bottom: 1em;
+  margin-top: 1em;
 }
 
 figure {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 2em 0;
+  margin: 1em auto;
 }
 
 figure img {
@@ -124,7 +125,8 @@ figure.figure-grid {
   grid-template-rows: 1fr 1fr;
   gap: 5px;
   max-width: 100%;
-  margin: 2em 0;
+  margin-top: 2em;
+  margin-bottom: 0;
 
   img {
     width: 100%;
@@ -154,8 +156,8 @@ figcaption {
   font-size: .875em;
   font-style: italic;
   text-align: center;
-  margin-top: 0;
-  margin-bottom: 1em;
+  margin-top: -1.5rem;
+  margin-bottom: 2em;
   opacity: .7;
 }
 
