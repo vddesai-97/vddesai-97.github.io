@@ -33,6 +33,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="post-pagination">
+    {% include post_pagination.html %}
+  </div>
+
 <!--   <div class="post-meta">
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
