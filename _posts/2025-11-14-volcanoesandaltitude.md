@@ -7,11 +7,11 @@ author: Clark Hickman
 location: Parque Itzaccihuatl-Popocatepetl, (State of) Mexico City, MX
 gallery:
   - url: /assets/images/2025-11-14-DogView.jpg
-    image_path: /assets/images/2025-11-14-DogView.jpg
+    image_path: /assets/images/2025-11-14-DogView.JPG
     alt: "Our way back down"
     title: "Our way back down"
   - url: /assets/images/2025-11-14-GuideDog.jpg
-    image_path: /assets/images/2025-11-14-GuideDog.jpg
+    image_path: /assets/images/2025-11-14-GuideDog.JPG
     alt: "Mountain Guide Dog"
     title: "Mountain Guide Dog"
 ---  
@@ -20,7 +20,7 @@ Having struck out at Nevado de Toluca but wanting to get our (especially my) hik
 
 Before we began, we experienced our first really cold night in our van. Even at ~11K where we parked (the highest we could go with Arya into the park), the nightime temperature dropped close to freezing. While our van is insulated, we do have many windows, a small fan for air flow, and no heater. It turns out we can be comfortable in these conditions, but it does require some planning before bed to make sure all blankets, sleeping bags, and clothes are laid out ahead of time to add the next necessary layer and some point during the night. Needless to say, we slept better the second night.
 
-{% include figure.html popup=true image_path="/assets/images/2025-11-14-MorningCacti.jpg" %}
+{% include figure.html popup=true image_path="/assets/images/2025-11-14-MorningCacti.JPG" %}
 <figcaption>Good Morning</figcaption>
 
 We began our climb in some spectacular moonlight, needing our headlamps only as we passed below trees. A fantastic sunrise was enjoyed along the way (only moderately disrupted by some bad tofu from the night before), and we reached the final campsite above 13K a little after 7am. Unfortunately, this was also the time that Vrinda began to feel unwell. The next hour and a half was a very slow hike and somewhat painful trek, as we tried to balance ample rest to account for the altitude with movement to warm our bodies, as this entire section of trail (1 km long and ~750 feet elevation gain) remained stubbornly below the ridgeline with the sun taunting us with its rays on the other side. Our spirits were boosted slightly when we were joined by three mountain dogs, who took turns kindly waiting for us, and then rubbing in their hiking superiority by bounding ahead (they even had enough energy to do some play-fighting at one point). Finally we reached the First Portillo ("mountain pass") and enjoyed the sun for the first time since we saw it rise several hours before. 
