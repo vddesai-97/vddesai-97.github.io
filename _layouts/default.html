@@ -23,19 +23,13 @@
 
     {{ content }}
 
-    {% unless site.hide_search %}
+<!--     {% unless site.hide_search %}
       {% include search.html %}
-    {% endunless %}
+    {% endunless %} -->
 
-    {% include menu.html %}
-
-    {% unless site.hide_credits %}
-      <aside class="site-credits">
-        <p>
-          <small>The Traveling Stinkbug by Vrinda and Clark</small>
-          <small>&copy; 2025</small>
-        </p>
-      </aside>
-    {% endunless %}
+    <!-- {% include menu.html %} -->
   </body>
+
+  {% include footer.html %}
+  
 </html>

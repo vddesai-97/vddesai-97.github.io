@@ -5,7 +5,8 @@
   {%- if include.popup -%}</a>{%- endif -%}
   {%- if include.caption -%}
     <figcaption>
-      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+      {{ include.caption | markdownify}}
+      <!-- {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }} -->
     </figcaption>
   {%- endif -%}
 </figure>

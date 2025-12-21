@@ -22,14 +22,17 @@
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title | escape_once }}"{% endif %}>
           <img src="{{ img.image_path | relative_url }}"
-               alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
+               alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}"
+               class="{% if img.class %}{{ img.class | escape_once }}{% endif %}">
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
-           alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
+           alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}"
+           class="{% if img.class %}{{ img.class | escape_once }}{% endif %}">
     {% endif %}
   {% endfor %}
   {% if include.caption %}
-    <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+    <!-- <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption> -->
+     <figcaption>{{ include.caption | markdownify}}</figcaption>
   {% endif %}
 </figure>

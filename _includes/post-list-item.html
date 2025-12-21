@@ -11,6 +11,11 @@
       {% if post.title != "" and site.show_excerpts == true %}
         {% include post-excerpt.html %}
       {% endif %}
+      {% unless post.location == "" %}
+        <span class="post-link__location">
+          {{ post.location }}
+        </span>
+      {% endunless %} 
     </div>
     <span class="post-date">
       {{ post.date | date: "%b %-d, '%y" }}

@@ -14,15 +14,13 @@ layout: default
         {{ site.title }}
       </h1>
     {% endif %}
-    {% if site.title %}
-      <h4>
-        {{ site.description }}
-      </h4>
-    {% endif %}
   </header>
 {% endif %}
 
 <main class="home" id="main" role="main" aria-label="Content">
+  <h4 class="content-subtitle">
+    {{ content }}
+  </h4>
   <h1 class="content-title divided">
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
@@ -30,7 +28,6 @@ layout: default
       Contents
     {% endif %}
   </h1>
-  <h5>{{ content }} </h5>
 
   {% if site.paginate and site.paginate_path %}
     
