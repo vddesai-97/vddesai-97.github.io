@@ -3,7 +3,7 @@ layout: post
 title: The Gulf Coast
 author: Clark Hickman
 date: 2025-10-25
-categories: usa
+categories: unitedstates
 location: Corpus Christi, TX, USA
 ---
  
