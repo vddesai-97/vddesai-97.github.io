@@ -1,18 +1,11 @@
-    ---
-    layout: newsletter
-    title: "My Awesome Draft Post"
-    author: Your Name
-    location: place
-    category: drafts
-    tags: [draft, writing]
-    ---
+---
+layout: post
+title: "My Awesome Draft Post"
+author: Vrinda
+location: Mazunte, Oaxaca, MX
+date: 2025-11-27
+category: mexico
+ ---
 
-    # Main Title
-    ## Subheading
-    ### Another Subheading
 
-    - Item 1
-    - Item 2
-        - Sub-item
-    1. First item
-    2. Second item
+Homesickness. 

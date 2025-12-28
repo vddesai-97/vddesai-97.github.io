@@ -4,12 +4,12 @@ title: V's Vomits
 permalink: /v-vomits/
 ---
 <h4>
-	Random thoughts (or vomits) from Vrinda's brains. As I do have many, do not worry, Clark went ahead and selected only the least pukiest.
+	Random thoughts (or vomits) from Vrinda's brains. As I do have many, do not worry, Clark went ahead and selected only the least pukiest. 
 </h4>
 
 
-{% for post in site.posts %}
-	{% if post.layout contains 'blurb' %}
-    	{% include blurb-list.html %}
-	{% endif %}
+{% for blurb in site.blurbs %}
+	<!-- {% if post.layout contains 'blurb' %} -->
+    {% include blurb-list.html %}
+	<!-- {% endif %} -->
 {% endfor %}
