@@ -1,10 +1,11 @@
-    ---
-    layout: blurb
-    title: "Stars in the Water"
-    author: Clark
-    location: Laguna Manialtepec, Oaxaca, MX
-    date: 11-26-25
-    ---
+---
+layout: post
+title: "Stars in the Water"
+author: Clark Hickman
+location: Laguna Manialtepec, Oaxaca, MX
+date: 2025-11-26
+category: mexico
+---
 
 \it{"Look at the stars, look how they shine for you..."}
 \right{\it{Coldplay}}
