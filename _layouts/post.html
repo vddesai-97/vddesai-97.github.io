@@ -35,6 +35,8 @@ layout: default
     {{ content }}
   </div>
 
+  {% include comments.html %}
+
   <div class="post-pagination">
     {% include post_pagination.html %}
   </div>
@@ -45,9 +47,6 @@ layout: default
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div> -->
-
-  
-  {% include comments.html %}
   
 
 </article>
