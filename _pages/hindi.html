@@ -1,0 +1,38 @@
+---
+layout: default
+lang: hi
+title: हिंदी
+permalink: /hi/
+---
+
+{% if site.data.menu_hi and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu_hi.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+  <header class="site-masthead">
+    {% include menu_hi.html %}
+    {% if site.title %}
+      <h1>
+        आर्या और बदबूदार कीड़ा
+      </h1>
+    {% endif %}
+  </header>
+{% endif %}
+
+<main class="home" id="main" role="main" aria-label="Content">
+    <h4 class="content-subtitle">
+        आर्या एंड द स्टिंकबग में आपका स्वागत है, एक ऐसी जगह जहाँ हम लैटिन अमेरिका की यात्रा करते हुए कहानियाँ और विज्ञान साझा करते हैं।
+    </h4>
+
+    <h1 class="content-title divided">
+      अंतर्वस्तु
+    </h1>
+
+    <ul class="post-list">        
+        {% assign hindi = site.hi | sort: "date" | reverse %}
+        {% for post in hindi %}
+            {% include post-list-item.html %}
+        {% endfor %}
+    </ul>
+</main>
