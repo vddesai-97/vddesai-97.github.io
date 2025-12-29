@@ -242,6 +242,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  hi:
+    output: true
+    sort_by: date
+    permalink: /hi/:title/
 
 # Defaults
 defaults:
