@@ -24,7 +24,6 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "search",
   "button"
 ;
-
 .google-maps {
     position: relative;
     padding-bottom: 120%; // (450 ÷ 500 = 0.9 = 90%)
@@ -38,3 +37,188 @@ $asset_url: '{{ '/assets' | absolute_url }}';
     width: 100%;
     height: 100%;
 }
+
+/* Comments */ 
+/* https://github.com/gabeluci/gabeluci.github.io/tree/master */
+
+label {
+  margin-top: 0;
+  margin-bottom: .725rem;
+}
+
+
+input,textarea {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: .75em .5em;
+  vertical-align: top;
+  overflow: visible;
+  background: #f2f2f2;
+  border: 1px solid #f2f2f2;
+  border-radius: .25em;
+  -webkit-appearance: none
+}
+
+.comment__form label {
+  display: block;
+  width: 100%;
+}
+
+.comment__form input,
+.comment__form textarea {
+  width: 100%;
+}
+
+.form__group {
+  display:-webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin: 0 -.5em 1em
+}
+
+.form__group > * {
+  padding-left: .5em;
+  padding-right: .5em
+}
+
+.form__group.g-recaptcha > * {
+  margin-left: .5em;
+  padding: 0
+}
+
+.comment {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.comment+.comment {
+  margin-top: 2em
+}
+
+.comment.child {
+  margin-left: 40px
+}
+
+@media (min-width: 48em) {
+  .comment.child {
+      margin-left:80px
+  }
+}
+
+.no-js img.lazyload {
+  display: none
+}
+
+.lazyload,.lazyloading {
+  opacity: 0
+}
+
+.lazyloaded {
+  opacity: 1;
+  -webkit-transition: opacity .3s;
+  transition: opacity .3s
+}
+
+.comment__main {
+  min-width: calc(100% - 40px)
+}
+
+@media (min-width: 48em) {
+  .comment__main {
+      min-width:calc(100% - 80px)
+  }
+}
+
+.comment__meta {
+  margin-bottom: 1em;
+  padding-bottom: .25em;
+  border-bottom: 1px solid #ccc;
+}
+
+.comment__message {
+  font-size: .9em
+}
+
+.comment__message>:last-child {
+  margin-bottom: 0
+}
+
+.comment__message img {
+  max-width: 100%
+}
+
+.comment__reply {
+  margin-top: .5em;
+}
+
+.comment__form {
+  margin-bottom: 2.9rem
+}
+
+.comment__form .title {
+  margin-top: 2.9rem
+}
+
+#cancel-comment-reply-link {
+  float: right;
+}
+
+.notice {
+  padding: 4px 12px;
+  background: #FDFEFB;
+  border-radius: 4px;
+  border: 1px solid #D7D8C8;
+  margin-bottom: 32px;
+  -webkit-box-shadow: 0.25em 0.25em 0 #D7D8C8;
+  box-shadow: 0.25em 0.25em 0 #D7D8C8;
+}
+
+.notice.danger {
+  border-color: #b11313;
+  color: #b11313;
+  -webkit-box-shadow: 0.25em 0.25em 0 #b11313;
+  box-shadow: 0.25em 0.25em 0 #b11313;
+}
+
+.hidden {
+  display: none!important;
+  visibility: hidden!important;
+  opacity: 0;
+}
+
+h2 a, h3 a, h4 a {
+  visibility: hidden;
+  margin-left: 5px;
+  border: none;
+}
+
+#comments h2 a {
+  visibility: visible;
+}
+
+h3 a svg, h4 a svg {
+  height: 15px;
+  width: 15px;
+}
+
+h2 a:hover, h3 a:hover, h4 a:hover {
+  border: none;
+}
+
+h2 a:hover svg, h3 a:hover svg, h4 a:hover svg {
+  fill: #ab0611;
+}
+
+h2:hover a, h3:hover a, h4:hover a {
+  visibility: visible;
+}
+
