@@ -24,12 +24,13 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "search",
   "button"
 ;
+
 .google-maps {
-    position: relative;
-    padding-bottom: 120%; // (450 ÷ 500 = 0.9 = 90%)
-    height: 0;
-    overflow: hidden;
+  position: relative;
+  padding-bottom: 100%; // (450 ÷ 500 = 0.9 = 90%)
+  overflow: hidden;
 }
+
 .google-maps iframe {
     position: absolute;
     top: 0;
@@ -37,6 +38,8 @@ $asset_url: '{{ '/assets' | absolute_url }}';
     width: 100%;
     height: 100%;
 }
+
+
 
 /* Comments */ 
 /* https://github.com/gabeluci/gabeluci.github.io/tree/master */
