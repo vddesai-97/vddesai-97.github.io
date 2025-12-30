@@ -33,9 +33,7 @@ layout: default
     
     <ul class="post-list">
       {% for post in paginator.posts %}
-        {% if post.lang contains 'en' %}
-          {% include post-list-item.html %}
-        {% endif %}
+        {% include post-list-item.html %}
       {% endfor %}
     </ul>
 
