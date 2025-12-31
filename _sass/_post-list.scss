@@ -64,10 +64,12 @@
   color: $muted-text-color;
   display: block;
   margin-right: 4em;
-  text-align: center;
+  text-align: left;
   @media (min-width: $on-tablet) {
     padding: .25em 0;
   }
+  font-size: 1.25em;
+  font-style: italic;
 }
 
 .post-pagination {
