@@ -2,7 +2,7 @@
 layout: post
 title: Before the Border
 date: 2025-10-27
-categories: unitedstates
+category: unitedstates
 author: Vrinda Desai
 location: Eagle Pass, TX, USA
 ---

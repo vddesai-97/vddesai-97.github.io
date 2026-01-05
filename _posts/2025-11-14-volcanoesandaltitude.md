@@ -2,7 +2,7 @@
 layout: post
 title: Volcanoes, Altitude, and Mountain Dog
 date: 2025-11-14
-categories: mexico
+category: mexico
 author: Clark Hickman
 location: Parque Itzaccihuatl-Popocatepetl, (State of) Mexico City, MX
 gallery:

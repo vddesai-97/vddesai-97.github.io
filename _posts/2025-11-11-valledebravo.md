@@ -2,7 +2,7 @@
 layout: post
 title: The Kindness of Strangers
 date: 2025-11-11
-categories: mexico
+category: mexico
 author: Clark Hickman
 location: Valle de Bravo, (State of) Mexico City, MX
 ---       

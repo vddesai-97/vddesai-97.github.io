@@ -2,7 +2,7 @@
 layout: post
 title: Honoring the Family
 date: 2025-11-04
-categories: mexico
+category: mexico
 author: Clark Hickman
 location: Mexico City, Mexico City, MX
 ddlm:
