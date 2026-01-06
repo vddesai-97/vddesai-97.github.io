@@ -24,7 +24,7 @@ comments:
   provider               : "staticman_v2" #, "staticman_v2",
   staticman:
     branch               : "main"
-    endpoint             : "https://traveling-stinkbug-staticman-585d543e1340.herokuapp.com"
+    endpoint             : "https://traveling-stinkbug-staticman-585d543e1340.herokuapp.com/v3/entry/github/"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
