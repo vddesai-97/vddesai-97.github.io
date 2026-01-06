@@ -7,8 +7,7 @@ layout: page
 {% if site.paginate and site.paginate_path %}
   
   <ul class="post-list">
-    {% assign sorted_items = paginator.blurbs | sort: "order" %}
-    {% for item in sorted_items reversed%}
+    {% for item in paginator.blurbs reversed%}
       <div class="post-subheader">
         {{ item.title }}
       </div>
@@ -40,8 +39,7 @@ layout: page
 {% else %}
 
   <ul class="post-list">
-    {% assign sorted_items = site.blurbs | sort: "order" %}
-    {% for item in sorted_items reversed%}
+    {% for item in site.blurbs reversed%}
       <div class="post-subheader">
         {{ item.title }}
       </div>
