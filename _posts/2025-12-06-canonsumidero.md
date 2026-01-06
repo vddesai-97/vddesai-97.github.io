@@ -12,7 +12,9 @@ category: mexico
 The Canon Sumidero was formed from a large fault about 35 billion years ago. The Grijalva River slowly eroded and deepened this fissure, similar to the Colorado River's work on the Grand Canyon. This deep gorge contains nearly vertical walls of limestone (a type of sedimentary rock), differing from the Grand Canyon, which contains layers of colurful sedimentary, metamorphic, and some igneous rocks. 
 
 {% include figure.html popup=true image_path="/assets/images/2025-12-06-alligator.jpg" %}
+<figcaption>"Never smile at a crocodile"</figcaption>
 {% include figure.html popup=true image_path="/assets/images/2025-12-06-CactiCanyon.jpg" %}
+<figcaption>Cacti dot the steep walls.</figcaption>
 {% include figure.html popup=true image_path="/assets/images/2025-12-06-canyonrock.jpg" %}
 
 
