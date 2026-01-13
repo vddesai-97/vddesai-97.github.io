@@ -24,11 +24,10 @@ comments:
   provider               : "staticman_v2" #, "staticman_v2",
   staticman:
     branch               : "main"
-    endpoint             : "https://staticman-traveling.fly.dev"
+    endpoint             : "https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-
 
 search                   : false
 search_full_content      : false #slows down search and load features
