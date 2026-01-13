@@ -13,6 +13,8 @@
     {% for comment in comments %}
       {% assign id          = comment[1]._id %}
       {% assign parent      = comment[1]._parent %}
+      {% assign avatar      = comment[1].avatar %}
+      {% assign email       = comment[1].email %}
       {% assign name        = comment[1].name %}
       {% assign url         = comment[1].url %}
       {% assign date        = comment[1].date %}
