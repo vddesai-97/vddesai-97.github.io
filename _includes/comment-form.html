@@ -19,10 +19,10 @@
     <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
     <input type="hidden" id="comment-replying-to" name="options[parent]" value>
     <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
-    <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-    <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
-    <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div>
-    <button type="button" disabled id="comment-form-submit" class="btn" aria-disabled="true">Submit comment</button>
+    <!-- <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}"> -->
+    <!-- <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}"> -->
+    <!-- <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div> -->
+    <!-- <button type="button" disabled id="comment-form-submit" class="btn" aria-disabled="true">Submit comment</button> -->
   </form>
   <div class="hidden js-notice notice" style="margin-top:1em">
     <p class="js-notice-text"></p>
