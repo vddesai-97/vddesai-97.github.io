@@ -1,12 +1,4 @@
 comments:
-  branch: main
-
-  path: "_data/comments/{options.slug}"
-
-  filename: "comment-{@timestamp}"
-
-  format: "yaml"
-
   allowedFields:
     - name
     - message
@@ -16,13 +8,25 @@ comments:
     - name
     - message
 
+  branch: main
+  path: "_data/comments/{options.slug}"
+  filename: "comment-{@timestamp}"
+  format: yaml
+  commitMessage: "New comment"
+
   generatedFields:
     date:
       type: date
       options:
         format: iso8601
 
-  commitMessage: "New comment on {options.slug}"
+    _id:
+      type: uuid
+
+    _parent:
+      type: string
+      options:
+        field: replying_to
 
   moderation: false
 
