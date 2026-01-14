@@ -14,7 +14,7 @@
     </div>
     {% unless include.is_last == false or page.comments_locked == true %}
       <div class="comment__reply">
-        <a rel="nofollow" href="#comment-{{ include.id }}" onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.parent }}', 'respond', '{{ comment_slug }}')">
+        <a rel="nofollow" href="#comment-{{ include.id }}" onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.parent }}', 'respond', '{{ page.path | slugify }}')">
           &#x2BA9; Reply</a>
       </div>
     {% endunless %}
