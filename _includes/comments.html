@@ -1,4 +1,4 @@
-{% assign comment_slug = page.path | slugify %}
+{% assign comment_slug = page.slug | default: page.url | slugify %}
 
 {% if site.data.comments[comment_slug] %}
   <div id="comments" class="page__comments js-comments">
