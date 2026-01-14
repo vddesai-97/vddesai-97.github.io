@@ -26,7 +26,7 @@ comments:
     _parent:
       type: string
       options:
-        field: replying_to
+        template: "{% if fields.replying_to %}{fields.replying_to}{% else %}comment-{@timestamp}{% endif %}"
 
   moderation: false
 
