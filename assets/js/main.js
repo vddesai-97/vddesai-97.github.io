@@ -27,14 +27,17 @@
       },
       body: new URLSearchParams(new FormData(form))
     })
-      .then(res => res.json())
+      .then(res => {
+        if (!res.ok) throw new Error("Submission failed");
+        return res.json();
+      })
       .then(() => {
         form.reset();
         grecaptcha.reset();
         submitButton.textContent = "Submitted";
         notice.classList.remove("hidden");
         noticeText.innerHTML =
-          "<strong>Thanks!</strong> Your comment is pending moderation.";
+          "<strong>Thanks!</strong> Your comment was submitted.";
       })
       .catch(() => {
         submitButton.disabled = false;
@@ -46,7 +49,7 @@
   });
 
   window.addComment = {
-    moveForm: function (commId, parentId, respondId) {
+    moveForm: function (_, parentId, respondId) {
       const respond = document.getElementById(respondId);
       const parent = document.getElementById("comment-replying-to");
       const cancel = document.getElementById("cancel-comment-reply-link");
