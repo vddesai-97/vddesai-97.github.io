@@ -30,8 +30,8 @@ atom_feed:
   hide                   : # true, false (default)
 
 reCaptcha:
-  siteKey: 6LeqyygsAAAAAIfTagez7L83zj7ulPfl4Z9szd2E
-  
+  siteKey: 6LdnbkosAAAAAFtojtx9s1wcpqPUe0LLlOM2aE53
+
 search                   : false
 search_full_content      : false #slows down search and load features
 search_provider          : lunr # algolia, google, can switch later if we want
