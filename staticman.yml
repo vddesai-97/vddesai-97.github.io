@@ -77,4 +77,4 @@ comments:
 
   reCaptcha:
     siteKey: 6LeqyygsAAAAAIfTagez7L83zj7ulPfl4Z9szd2E
-    secret: 6LeqyygsAAAAAIgumrFYmT1Z-a7WdQomoMDOYz_f
+    #secret: 6LeqyygsAAAAAIgumrFYmT1Z-a7WdQomoMDOYz_f
