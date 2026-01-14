@@ -1,42 +1,71 @@
 <div id="respond" class="comment__form">
   <h2 class="title">
     <span id="comment-heading-text">Leave a comment</span>
-    <button id="cancel-comment-reply-link" style="display:none">Cancel reply</button>
+    <button type="button"
+            class="btn"
+            id="cancel-comment-reply-link"
+            style="display:none;">
+      Cancel reply
+    </button>
   </h2>
 
   <div class="js-notice hidden">
-    <div class="js-notice-text"></div>
+    <p class="js-notice-text"></p>
   </div>
 
-  <form
-    id="comment-form"
-    method="post"
-    action="https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments">
+  <form id="comment-form"
+        method="POST"
+        action="https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments">
 
-    <input type="hidden" name="options[slug]" value="{{ page.slug | default: page.url | slugify }}">
-    <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
-    <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
-
-    <label>
-      Name
-      <input type="text" name="fields[name]" required>
-    </label>
-
-    <label>
-      Comment
-      <textarea name="fields[message]" rows="6" required></textarea>
-    </label>
-
-    <div
-      class="g-recaptcha"
-      data-sitekey="{{ site.reCaptcha.siteKey }}"
-      data-callback="verifyCaptcha">
+    <!-- REQUIRED FIELDS -->
+    <div class="form__group">
+      <label>
+        Name
+        <input type="text"
+               name="fields[name]"
+               id="comment-form-name"
+               required>
+      </label>
     </div>
 
-    <button type="submit" id="comment-form-submit" disabled aria-disabled="true">
+    <div class="form__group">
+      <label>
+        Comment
+        <textarea name="fields[message]"
+                  id="comment-form-message"
+                  rows="6"
+                  required></textarea>
+      </label>
+    </div>
+
+    <!-- REPLY SUPPORT -->
+    <input type="hidden"
+           name="fields[replying_to]"
+           id="comment-replying-to"
+           value="">
+
+    <!-- REQUIRED OPTIONS -->
+    <input type="hidden"
+           name="options[slug]"
+           value="{{ page.slug | default: page.url | slugify }}">
+
+    <input type="hidden"
+           name="options[origin]"
+           value="{{ page.url | absolute_url }}#comments">
+
+    <!-- RECAPTCHA -->
+    <div class="g-recaptcha"
+         data-sitekey="{{ site.reCaptcha.siteKey }}"
+         data-callback="verifyCaptcha"></div>
+
+    <button type="submit"
+            id="comment-form-submit"
+            class="btn"
+            disabled
+            aria-disabled="true">
       Submit comment
     </button>
   </form>
 </div>
 
-<script async src="https://www.google.com/recaptcha/api.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
