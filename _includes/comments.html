@@ -1,15 +1,16 @@
-{% if site.data.comments[page.slug] %}
+{% assign comment_slug = page.path | slugify %}
+{% if site.data.comments[comment_slug] %}
   <div id="comments" class="page__comments js-comments">
-    {% if site.data.comments[page.slug].size > 0 %}
+    {% if site.data.comments[comment_slug].size > 0 %}
     <h2 class="title">
-      {% if site.data.comments[page.slug].size == 1 %}
-        {{ site.data.comments[page.slug] | size | append: ' comment' }}
-      {% elsif site.data.comments[page.slug].size > 1 %}
-        {{ site.data.comments[page.slug] | size | append: ' comments' }}
+      {% if site.data.comments[comment_slug].size == 1 %}
+        {{ site.data.comments[comment_slug] | size | append: ' comment' }}
+      {% elsif site.data.comments[comment_slug].size > 1 %}
+        {{ site.data.comments[comment_slug] | size | append: ' comments' }}
       {% endif %}
     </h2>
     {% endif %}
-    {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
+    {% assign comments = site.data.comments[comment_slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
     {% for comment in comments %}
       {% assign id          = comment[1]._id %}
       {% assign parent      = comment[1]._parent %}
@@ -19,7 +20,7 @@
       {% assign message     = comment[1].message %}
 
       {% capture i %}{{ id }}{% endcapture %}
-      {% assign replies = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._id != i' | where_exp: 'comment', 'comment[1]._parent == i' %}
+      {% assign replies = site.data.comments[comment_slug] | sort | where_exp: 'comment', 'comment[1]._id != i' | where_exp: 'comment', 'comment[1]._parent == i' %}
       {% if replies.size > 0 %}
         {% assign is_last = false %}
       {% endif %}
