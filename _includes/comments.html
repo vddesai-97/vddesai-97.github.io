@@ -2,15 +2,11 @@
 
 {% if site.data.comments[comment_slug]] %}
   <div id="comments" class="page__comments js-comments">
+    
     {% if site.data.comments[comment_slug].size > 0 %}
-    <h2 class="title">
-      {% if site.data.comments[comment_slug].size == 1 %}
-        {{ site.data.comments[comment_slug] | size | append: ' comment' }}
-      {% elsif site.data.comments[comment_slug].size > 1 %}
-        {{ site.data.comments[comment_slug] | size | append: ' comments' }}
-      {% endif %}
-    </h2>
+    <h2 class="title"> Comments </h2>
     {% endif %}
+
     {% assign comments = site.data.comments[comment_slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
     {% for comment in comments %}
       {% assign id          = comment[1]._id %}
