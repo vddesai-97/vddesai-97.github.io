@@ -7,10 +7,9 @@
     <h2 class="title"> Comments </h2>
     {% endif %}
 
-    {% assign comments = site.data.comments[comment_slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %}
+    {% assign comments = site.data.comments[comment_slug] %}
     {% for comment in comments %}
       {% assign id          = comment[1]._id %}
-      {% assign parent      = comment[1]._parent %}
       {% assign name        = comment[1].name %}
       {% assign url         = comment[1].url %}
       {% assign date        = comment[1].date %}
@@ -22,7 +21,7 @@
         {% assign is_last = false %}
       {% endif %}
 
-      {% include comment.html id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message is_last=is_last replies=replies %}
+      {% include comment.html id=id name=name url=url date=date message=message is_last=is_last replies=replies %}
     {% endfor %}
   </div>
 {% endif %}

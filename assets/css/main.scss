@@ -132,23 +132,23 @@ input,textarea {
 }
 
 .comment__main {
-  min-width: calc(100% - 40px)
+  min-width: 80%;
 }
 
 @media (min-width: 48em) {
   .comment__main {
-      min-width:calc(100% - 80px)
+    min-width:calc(100% - 80px)
   }
 }
 
 .comment__meta {
   margin-bottom: 1em;
   padding-bottom: .25em;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid $muted-text-color;
 }
 
 .comment__message {
-  font-size: .9em
+  font-size: 1em;
 }
 
 .comment__message>:last-child {
@@ -160,7 +160,9 @@ input,textarea {
 }
 
 .comment__reply {
-  margin-top: .5em;
+  margin-top: .9em;
+  font-size: .8em;
+  text-align: right
 }
 
 .comment__form {
