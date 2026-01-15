@@ -2,25 +2,30 @@
 
 {% if site.data.comments[comment_slug]] %}
   <div id="comments" class="page__comments js-comments">
-    
     {% if site.data.comments[comment_slug].size > 0 %}
-    <h2 class="title"> Comments </h2>
+    <h2 class="title">
+      {% if site.data.comments[comment_slug].size == 1 %}
+        {{ site.data.comments[comment_slug] | size | append: ' comment' }}
+      {% elsif site.data.comments[comment_slug].size > 1 %}
+        {{ site.data.comments[comment_slug] | size | append: ' comments' }}
+      {% endif %}
+    </h2>
     {% endif %}
-
     {% assign comments = site.data.comments[comment_slug] %}
+    
     {% for comment in comments %}
       {% assign id          = comment[1]._id %}
+      {% assign parent      = comment[1]._parent %}
       {% assign name        = comment[1].name %}
       {% assign url         = comment[1].url %}
       {% assign date        = comment[1].date %}
       {% assign message     = comment[1].message %}
 
       {% capture i %}{{ id }}{% endcapture %}
-    
-
-      {% include comment.html id=id name=name url=url date=date message=message is_last=is_last %}
+      {% include comment.html id=id parent=parent name=name url=url date=date message=message is_last=is_last %}
     {% endfor %}
   </div>
 {% endif %}
 
 {% include comment-form.html %}
+
