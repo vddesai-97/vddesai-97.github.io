@@ -24,10 +24,7 @@
         <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
       </label>
     </div>
-
-    <!-- REPLY SUPPORT -->
-    <input type="hidden" id="comment-replying-to" name="options[parent]" value>
-
+    
     <!-- REQUIRED OPTIONS -->
     <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
     <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug | default: page.url | slugify }}">

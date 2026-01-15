@@ -11,22 +11,5 @@
     <div class="comment__message">
       {{ include.message | markdownify }}
     </div>
-    {% unless include.is_last == false or page.comments_locked == true %}
-      <div class="comment__reply">
-        <a rel="nofollow" href="#comment-{{ include.id }}" onclick="return addComment.moveForm('comment-{{ include.id }}', '{{ include.parent }}', 'respond', '{{ comment_slug }}')">
-        Reply</a>
-      </div>
-    {% endunless %}
   </div>
 </article>
-
-{% for reply in include.replies %}
-  {% assign id          = reply[1]._id %}
-  {% assign parent      = reply[1]._parent %}
-  {% assign name        = reply[1].name %}
-  {% assign url         = reply[1].url %}
-  {% assign date        = reply[1].date %}
-  {% assign message     = reply[1].message %}
-  {% assign is_last     = forloop.last %}
-  {% include comment.html id=id parent=parent name=name url=url date=date message=message is_last=is_last%}
-{% endfor %}
