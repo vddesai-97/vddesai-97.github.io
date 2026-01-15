@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<em>El Agua es Vida</em>”
+title: <em>El Agua es Vida</em>
 author: Clark Hickman
 location: Chiapas, MX
 date: 2025-12-21

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stars in the Water"
+title: Stars in the Water
 author: Clark Hickman
 location: Laguna Manialtepec, Oaxaca, MX
 date: 2025-11-26

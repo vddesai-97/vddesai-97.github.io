@@ -1,10 +1,10 @@
 ---
 layout: post
-title: New Year from the Top of the World
-author: Clark Hickman
-location: Volcan Tajumulco, San Marcos, GT
-date: 2026-01-01
-categories: DeepDive
+title: "My Awesome Draft Post"
+author: Your Name
+location: place
+date: 2025-01-01
+categories: DeepDive or Blurbs
 tags: [draft, writing]
 entries_layout: grid
 permalink: /blurbs/

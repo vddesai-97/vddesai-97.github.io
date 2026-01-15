@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thanksgiving on the Beach"
+title: Thanksgiving on the Beach
 author: Clark Hickman
 location: San Agustinillo, Oaxaca, MX
 date: 2025-11-28
