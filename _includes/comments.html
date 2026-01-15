@@ -4,11 +4,7 @@
   <div id="comments" class="page__comments js-comments">
     {% if site.data.comments[comment_slug].size > 0 %}
     <h2 class="title">
-      {% if site.data.comments[comment_slug].size == 1 %}
-        {{ site.data.comments[comment_slug] | size | append: ' comment' }}
-      {% elsif site.data.comments[comment_slug].size > 1 %}
-        {{ site.data.comments[comment_slug] | size | append: ' comments' }}
-      {% endif %}
+      Comments
     </h2>
     {% endif %}
     {% assign comments = site.data.comments[comment_slug] %}
