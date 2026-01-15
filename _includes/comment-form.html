@@ -1,10 +1,7 @@
 <div id="respond" class="comment__form">
   <h2 class="title">
     <span id="comment-heading-text">Leave a comment</span>
-    <button type="button"
-            class="btn"
-            id="cancel-comment-reply-link"
-            style="display:none;">
+    <button type="button" class="btn" id="cancel-comment-reply-link" style="display:none;">
       Cancel reply
     </button>
   </h2>
@@ -13,56 +10,34 @@
     <p class="js-notice-text"></p>
   </div>
 
-  <form id="comment-form"
-        method="POST"
-        action="https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments">
+  <form id="comment-form" method="POST" action="https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments">
 
     <!-- REQUIRED FIELDS -->
     <div class="form__group">
-      <label>
-        Name
-        <input type="text"
-               name="fields[name]"
-               id="comment-form-name"
-               required>
+      <label for="comment-form-name">Name
+        <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your name">
       </label>
     </div>
 
     <div class="form__group">
-      <label>
-        Comment
-        <textarea name="fields[message]"
-                  id="comment-form-message"
-                  rows="6"
-                  required></textarea>
+      <label for="comment-form-message">Comment
+        <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
       </label>
     </div>
 
     <!-- REPLY SUPPORT -->
-    <input type="hidden"
-           name="fields[replying_to]"
-           id="comment-replying-to"
-           value="">
+    <input type="hidden" id="comment-replying-to" name="options[parent]" value>
 
     <!-- REQUIRED OPTIONS -->
-    <input type="hidden"
-           name="options[slug]"
-           value="{{ page.slug | default: page.url | slugify }}">
-
-    <input type="hidden"
-           name="options[origin]"
-           value="{{ page.url | absolute_url }}#comments">
+    <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
+    <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug | default: page.url | slugify }}">
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+    <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
 
     <!-- RECAPTCHA -->
-    <div class="g-recaptcha"
-         data-sitekey="{{ site.reCaptcha.siteKey }}"
-         data-callback="verifyCaptcha"></div>
+    <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div>
 
-    <button type="submit"
-            id="comment-form-submit"
-            class="btn"
-            disabled
-            aria-disabled="true">
+    <button type="submit" id="comment-form-submit" class="btn" disabled aria-disabled="true">
       Submit comment
     </button>
   </form>
