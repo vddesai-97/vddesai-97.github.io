@@ -1,81 +1,36 @@
-# Name of the property. You can have multiple properties with completely
-# different config blocks for different sections of your site.
-# For example, you can have one property to handle comment submission and
-# another one to handle posts.
 comments:
-  # (*) REQUIRED
-  # Names of the fields the form is allowed to submit. If a field that is
-  # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "message", "replying_to"]
+  allowedFields:
+    - name
+    - message
+    - replying_to
 
-  # (*) REQUIRED
-  #
-  # Name of the branch being used. Must match the one sent in the URL of the
-  # request.
+  requiredFields:
+    - name
+    - message
+
   branch: main
-
-  # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "new comment" #"Comment from {fields.name} on {options.slug}"
-
-  # (*) REQUIRED
-  #
-  # Destination path (filename) for the data files. Accepts placeholders.
+  path: "_data/comments/{options.slug}"
   filename: "comment-{@timestamp}"
+  format: yaml
+  commitMessage: "New comment"
 
-  # The format of the generated data files. Accepted values are "json", "yaml"
-  # or "frontmatter"
-  format: "yaml"
-
-  # List of fields to be populated automatically by Staticman and included in
-  # the data file. Keys are the name of the field. The value can be an object
-  # with a `type` property, which configures the generated field, or any value
-  # to be used directly (e.g. a string, number or array)
   generatedFields:
     date:
       type: date
       options:
-        format: "iso8601"
+        format: iso8601
 
-  # Whether entries need to be appproved before they are published to the main
-  # branch. If set to `true`, a pull request will be created for your approval.
-  # Otherwise, entries will be published to the main branch automatically.
+    _id:
+      type: uuid
+
+    _parent:
+      type: string
+      options:
+        template: "{% if fields.replying_to %}{fields.replying_to}{% else %}comment-{@timestamp}{% endif %}"
+
   moderation: false
-
-  # Name of the site. Used in notification emails.
-  name: "Traveling Stinkbug"
-
-  # Notification settings. When enabled, users can choose to receive notifications
-  # via email when someone adds a reply or a new comment. This requires an account
-  # with Mailgun, which you can get for free at http://mailgun.com.
-  #notifications:
-    # Enable notifications
-    #enabled: true
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun API key
-    #apiKey: "1q2w3e4r"
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun domain (encrypted)
-    #domain: "4r3e2w1q"
-
-  # (*) REQUIRED
-  #
-  # Destination path (directory) for the data files. Accepts placeholders.
-  path: "_data/comments/{options.slug}"
-
-  # Names of required fields. If any of these isn't in the request or is empty,
-  # an error will be thrown.
-  requiredFields: ["name", "message"]
-
-  # List of transformations to apply to any of the fields supplied. Keys are
-  # the name of the field and values are possible transformation types.
-  #transforms:
-  #  email: md5
 
   reCaptcha:
     enabled: false
-    ###siteKey: 6LeqyygsAAAAAIfTagez7L83zj7ulPfl4Z9szd2E
-    ###secret: 6LeqyygsAAAAAIgumrFYmT1Z-a7WdQomoMDOYz_f
+    siteKey: 6LdnbkosAAAAAFtojtx9s1wcpqPUe0LLlOM2aE53
+    secret: 0UuxEZikX17Vhb8TOrv4IsxgSoS9wpTNP5k6fH8BI2j8195qLa73nOzjkpyd9wJuqN55uTYTIiajPw6OPJUcg0UVlXg57A+JeksBZ22gsqGbZlZQpPg2I6sls9TMl2uPVIs08N6uDuCed7vnrTwcjFIgYSn/hVw87n5wIjX3Y7ZiZTmR6xApnZKw26wc4kRdSSWMr9YrB58UQJUNuNG5sxkZYoYGDqr0kKrMZe6CkZulUfPLI6Ip9STJvGrdIngHhRcPwI9q3NAUlYVvZRg/RTs9nSDhUsdB5AtGuEQ85a4w7LzEPdlZpxZG3Xo01JWJPSpguZ1DJnl3T/1SXkionpUMk+7m044GOem52k4ZF/rORCLq2OZi1qwdBl/GgJFB3dz49kyYPa6m/+WJbAMb00siVF8/+4xpxfkerNSUytBC1x+FuF+mbaNxXWN0Ns+0e7WZWCCsGcjf9JToEPhq1crtiz9D07oRoWaVYcHTIk0qALjbNF+BxVNJ2Njxn25OnWoXYb/FGUbyE0fwHdYJs3nEWxuq8C9dXSc4+ohkHe+fesUu1/58g7q2wbltcqwfcMABIwfhGEObokKYb4+IB5ubhB5rtW+kNjVWrrJ8QBQ5Z5WPJ8gfX9/pXeE5Ocb0sx9N8U4KObjHVwpc7pk2zyOcRNHLbKz8qDxZ8p3gGQ0=%

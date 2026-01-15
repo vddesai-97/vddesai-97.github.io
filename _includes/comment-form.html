@@ -1,39 +1,39 @@
-{% unless page.comments_locked == true or site.comments_locked == true %}
-  <!-- Start comment form -->
-  <div id="respond" class="comment__form">
-    <h3 class="title"><span id="comment-heading-text">Leave a comment</span> <button class="btn" id="cancel-comment-reply-link" style="display:none;">Cancel reply</button></h3>
-    <form id="comment-form" class="js-form" method="post" action=" https://traveling-stinkbug-staticman-585d543e1340.herokuapp.com/v2/entry/vddesai-97/vddesai-97.github.io/main/comments">
-      <div class="form__group">
-        <label for="comment-form-name">Name: 
-          <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your name">
-        </label>
-      </div>
-      <div class="form__group">
-        <label for="comment-form-message">Comment: 
-          <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
-        </label>
-      </div>
- <!--      <div style="margin-bottom: 1em">
-          <strong>Comments are moderated.</strong> Your comment will be reviewed by a human before being posted to
-          this page just to reduce spam.
-      </div> -->
-      <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
-      <input type="hidden" id="comment-replying-to" name="options[parent]" value>
-      <input type="hidden" id="comment-post-id" name="options[title]" value="{{ page.title }}">
-      <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-      <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
-      <div class="g-recaptcha form__group" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div>
-      <button type="button" disabled id="comment-form-submit" class="btn" aria-disabled="true">Submit comment</button>
-    </form>
-    <div class="hidden js-notice notice" style="margin-top:1em">
-      <p class="js-notice-text"></p>
+<div id="respond" class="comment__form">
+  <h2 class="title">
+    <span id="comment-heading-text">Leave a comment</span>
+  </h2>
+
+  <div class="js-notice hidden">
+    <p class="js-notice-text"></p>
+  </div>
+
+  <form id="comment-form" method="POST" action="https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments">
+
+    <!-- REQUIRED FIELDS -->
+    <div class="form__group">
+      <label for="comment-form-name">Name
+        <input type="text" id="comment-form-name" name="fields[name]" required spellcheck="false" placeholder="Your name">
+      </label>
     </div>
-  </div>
-  <!-- End comment form -->
-  <script async src="https://www.google.com/recaptcha/api.js"></script>
-{% else %}
-  <div class="notice">
-    <h4>Comments are closed</h4>
-    <!--<p>If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</p>-->
-  </div>
-{% endunless %}
+
+    <div class="form__group">
+      <label for="comment-form-message">Comment
+        <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
+      </label>
+    </div>
+
+    <!-- REQUIRED OPTIONS -->
+    <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
+    <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug | default: page.url | slugify }}">
+
+    <!-- RECAPTCHA -->
+    <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div>
+
+    <button type="submit" id="comment-form-submit" class="btn">
+      Submit comment
+    </button>
+
+  </form>
+</div>
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>

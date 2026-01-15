@@ -28,11 +28,13 @@ comments:
     git_provider_username: vddesai-97
     base_url: https://traveling-stinkbug-staticman-585d543e1340.herokuapp.com
     branch               : "main"
-    endpoint             : "https://traveling-stinkbug-staticman-585d543e1340.herokuapp.com/v3/entry/github/"
+    endpoint             : "https://staticman-traveling.fly.dev/v2/entry/vddesai-97/vddesai-97.github.io/main/comments"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
 
+reCaptcha:
+  siteKey: 6LdnbkosAAAAAFtojtx9s1wcpqPUe0LLlOM2aE53
 
 search                   : false
 search_full_content      : false #slows down search and load features
