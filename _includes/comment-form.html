@@ -24,20 +24,15 @@
         <textarea type="text" rows="6" id="comment-form-message" name="fields[message]" required spellcheck="true" placeholder="Your message"></textarea>
       </label>
     </div>
-
-    <!-- REPLY SUPPORT -->
-    <input type="hidden" id="comment-replying-to" name="options[parent]" value>
-
+    
     <!-- REQUIRED OPTIONS -->
     <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
     <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug | default: page.url | slugify }}">
-    <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-    <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
-
+    
     <!-- RECAPTCHA -->
     <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div>
 
-    <button type="submit" id="comment-form-submit" class="btn" disabled aria-disabled="true">
+    <button type="submit" class="btn" disabled aria-disabled="true">
       Submit comment
     </button>
   </form>
