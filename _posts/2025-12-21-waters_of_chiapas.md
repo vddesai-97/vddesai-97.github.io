@@ -51,6 +51,8 @@ Coincidentally, G told us they had been planning to make aloo parathas that nigh
 
 {% include figure.html popup=true image_path="/assets/images/2025-12-21-lake.jpg" %}
 <figcaption>Mirador for Lagos de Montebello</figcaption>
+{% include figure.html popup=true image_path="/assets/images/2025-12-21-dinner.jpg" %}
+<figcaption>New friends and indian food. Our first time sharing a meal since starting this trip.</figcaption>
 {% include figure.html popup=true image_path="/assets/images/2025-12-21-aryanlake.jpg" %}
 <figcaption>Campsite view of Lagos de Montebello</figcaption>
 
