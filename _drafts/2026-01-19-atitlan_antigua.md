@@ -1,10 +1,10 @@
 ---
 layout: post
-title: New Year from the Top of the World
-author: Clark Hickman
-location: Volcan Tajumulco, San Marcos, GT
-date: 2026-01-01
-categories: DeepDive
+title: "My Awesome Draft Post"
+author: Your Name
+location: place
+date: 2025-01-01
+categories: DeepDive or Blurbs
 tags: [draft, writing]
 entries_layout: grid
 permalink: /blurbs/
@@ -23,6 +23,13 @@ gallery:
     title: "Mountain Guide Dog"
 ---
 
-Some time this week, we were reading about some potential hikes to complete in Guatemala and came across Volcan Tajumulco, the highest peak in Central America (re: south of Mexico). Wanting to do a sunrise hike and with the 
-New Year approaching, we thought it would be a fun symbolism for us to take in the first sun of the year from this vantage point. 
+    # Main Title
+    ## Subheading
+    ### Another Subheading
+
+    - Item 1
+    - Item 2
+        - Sub-item
+    1. First item
+    2. Second item
     
