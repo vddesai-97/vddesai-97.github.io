@@ -181,7 +181,7 @@ pagination:
   per_page: 5
   permalink: '/page/:num/'
   title: ':title - page :num'
-  limit: 0
+  limit: 30
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
