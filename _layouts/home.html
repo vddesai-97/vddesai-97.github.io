@@ -22,17 +22,13 @@ layout: default
     {{ content }}
   </h4>
   <h1 class="content-title divided">
-    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
-      Page {{ paginator.page }}
-    {% else %}
-      Contents
-    {% endif %}
+    Contents
   </h1>
 
   {% if site.paginate and site.paginate_path %}
     
     <ul class="post-list">
-      {% for post in paginator.posts %}
+      {% for post in paginator.posts%}
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
@@ -40,16 +36,20 @@ layout: default
     {% if paginator.total_pages > 1 %}
 
       <div class="post-pagination">
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
-        {% else %}
-          <span>&nbsp;</span>
-        {% endif %}
-        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+          <a href="{{ paginator.previous_page_path }}" class="previous">
+            Newer
+          </a>
         {% else %}
-          <span>&nbsp;</span>
+          <span class="previous"></span>
+        {% endif %}
+        <span class="page_number ">
+          Page {{ paginator.page }} of {{ paginator.total_pages }}
+        </span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Older</a>
+        {% else %}
+          <span class="next "></span>
         {% endif %}
       </div>
 

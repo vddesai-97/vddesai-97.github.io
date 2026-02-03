@@ -175,19 +175,10 @@ permalink: /:categories/:title/ #permalink: /posts/:title
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
-pagination:
-  enabled: true
-  collection: 'posts'
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 30
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  trail:
-    before: 2
-    after: 2
+paginate: 5
+pagingate_path: "/page:num/"
+
+
 
 # Mapping
 #maps:
