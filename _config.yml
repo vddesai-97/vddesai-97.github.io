@@ -175,8 +175,9 @@ permalink: /:categories/:title/ #permalink: /posts/:title
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
-paginate: 5
-pagingate_path: "/page:num/"
+
+paginate: 6
+paginate_path: "/page:num/"
 
 
 
