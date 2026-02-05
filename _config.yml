@@ -244,6 +244,9 @@ collections:
   blurbs:
     output: true
     permalink: /v-vomits/:title
+  comms:
+    output: true
+    permalink: /c-scicomms/:title
 
 
 # Defaults

@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+<h5> {{ content }} </h5>
+
+
+<ul class="post-list">
+    {% for post in site.comms %}
+        {% include post-list-item.html %}
+    {% endfor %}
+</ul>
