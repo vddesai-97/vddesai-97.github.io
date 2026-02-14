@@ -1,13 +1,10 @@
 ---
-layout: post
-title: "My Awesome Draft Post"
-author: Your Name
-location: place
-date: 2025-01-01
-categories: DeepDive or Blurbs
-tags: [draft, writing]
-entries_layout: grid
-permalink: /blurbs/
+layout: post or blurb
+title: 
+author: 
+location: city, state, country
+date: 
+category: country 
 gallery:
   - url: /assets/images/2025-11-14-MorningCacti.jpg
     image_path: /assets/images/2025-11-14-MorningCacti.jpg
