@@ -1,0 +1,144 @@
+img {
+  display: flex;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+figure {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 1em auto;
+}
+
+figure img {
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+figure.half > a,
+figure.half > img {
+  width: calc(50% - 0.5em);
+}
+
+figure.third > a,
+figure.third > img {
+  width: calc(33.3333% - 0.5em);
+}
+
+figure.figure-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 5px;
+  max-width: 100%;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 0;
+  }
+
+  & > .img1 {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+  }
+
+  & > .img2 {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  & > .img3 {
+    grid-column: 2;
+    grid-row: 2;
+  }
+}
+
+figure.figure-gridrev {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 5px;
+  max-width: 100%;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 0;
+  }
+
+  & > .img1 {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  & > .img2 {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  & > .img3 {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+  }
+}
+
+figure.figure-grid4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 5px;
+  max-width: 100%;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+    margin: 0 0;
+  }
+
+  & > .img1 {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+  }
+
+  & > .img2 {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+  }
+
+  & > .img3 {
+    grid-column: 3;
+    grid-row: 1;
+  }
+
+  & > .img4 {
+    grid-column: 3;
+    grid-row: 2;
+  }
+}
+
+figcaption {
+  font-size: .875em;
+  font-style: italic;
+  text-align: center;
+  margin-top: -1.5rem;
+  margin-bottom: 2em;
+  opacity: .7;
+}
+
