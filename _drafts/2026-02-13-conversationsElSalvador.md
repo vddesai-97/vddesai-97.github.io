@@ -1,10 +1,10 @@
 ---
-layout: post or blurb
-title: 
-author: 
-location: city, state, country
-date: 
-category: country 
+layout: post
+title: Safety Conversations with Salvadorians
+author: Clark Hickman
+location: Santa Tecla, La Libertad, SV
+date: 2026-02-13
+category: El Salvador 
 gallery:
   - url: /assets/images/2025-11-14-MorningCacti.jpg
     image_path: /assets/images/2025-11-14-MorningCacti.jpg
@@ -20,13 +20,10 @@ gallery:
     title: "Mountain Guide Dog"
 ---
 
-    # Main Title
-    ## Subheading
-    ### Another Subheading
+In us, headlines painting bukele as dictator. He probably is. Harsh sentencing (8 months for a shop owner working on a stolen vehicle). Needs citations
 
-    - Item 1
-    - Item 2
-        - Sub-item
-    1. First item
-    2. Second item
-    
+But… so many are happy that the situation here has improved. A mom who left when she was 12 and was happy to think she would never have to return (”now I can show my husband and kids my home country.”) Multiple parents retiring to the country (”it is their homeland. They are happy to be back after their country was taken from them”. Our shop owner and businessman (”I usually have considered myself a bit of a un-patriotic person; I love to travel and am wanting everyone to do well. Only in the last three years have I felt some pride being Salvadorian.”)
+
+There was some cost to the violence. Obviously lives lost, folks harmed, economy devastated. Successful people left and began their lives elsewhere (our shop owner, scuba instructor, nurse). Needs citations
+
+Now concerns in the other direction. Making sure the people’s wishes are still honored and journalists respected. Rights for those accused. Income gap means that the rich are quickly buying up the valuable land in the country. But I think everyone is happy to be having these conversations while being able to feel safe in their homeland.
