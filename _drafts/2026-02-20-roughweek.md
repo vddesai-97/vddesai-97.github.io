@@ -1,11 +1,11 @@
 ---
-layout: post or blurb
-title: 
+layout: post
+title: Not All Weeks are Glorious
 author: 
-location: city, state, country
-date: 
-category: country 
-post_description: summary for social media
+location: La Unión, La Unión, SV
+date: 2026-02-20
+category: El Salvador
+post_description: 
 gallery:
   - url: /assets/images/2025-11-14-MorningCacti.jpg
     image_path: /assets/images/2025-11-14-MorningCacti.jpg
