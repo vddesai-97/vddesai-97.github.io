@@ -1,32 +1,29 @@
 ---
-layout: post or blurb
-title: 
-author: 
-location: city, state, country
-date: 
-category: country 
-gallery:
-  - url: /assets/images/2025-11-14-MorningCacti.jpg
-    image_path: /assets/images/2025-11-14-MorningCacti.jpg
-    alt: "Morning Sunrise"
-    title: "Morning Sunrise"
-  - url: /assets/images/2025-11-14-DogView.jpg
-    image_path: /assets/images/2025-11-14-DogView.jpg
-    alt: "Our way back down"
-    title: "Our way back down"
-  - url: /assets/images/2025-11-14-GuideDog.jpg
-    image_path: /assets/images/2025-11-14-GuideDog.jpg
-    alt: "Mountain Guide Dog"
-    title: "Mountain Guide Dog"
+layout: post
+title: Safety Conversations with Salvadorians
+author: Clark Hickman
+location: Santa Tecla, La Libertad, SV
+date: 2026-02-13
+category: El Salvador 
+post_description: In the American media landscape, El Salvador has recently made headlines that are filtered through the current political landscape of the United States. Much of this has to do with how people perceive the self-proclaimed “world’s coolest dictator” Nayib Bukele, whose regime has brought stability and safety to the country by imprisoning thousands of alleged gang members using authoritarian tactics. Despite many concerns of violations of human rights for these prisoners, many folks we talked to only expressed gratitude and hope that their country - which had undergone four decades of brutal fighting and gang violence - was finally turning the corner away from the darkest chapter of its history. 
 ---
 
-    # Main Title
-    ## Subheading
-    ### Another Subheading
+In the American media landscape, El Salvador has recently made headlines that are filtered through the current political landscape of <em>Los Estados Unidos</em>. Those viewing through a MAGA-lens have expressed admiration for Salvadoran president Nayib Bukele, the self-proclaimed “world’s coolest dictator,” and his efforts to crack-down on crime <a href=“https://www.npr.org/2025/04/14/nx-s1-5361119/the-worlds-coolest-dictator-heads-to-the-white-house”>(NPR, 2025)</a>. On the other hand, human-rights groups and journalists have raised concerns that Bukele’s administration has deployed authoritarian tendencies that create fear and silence within anyone who might disagree with his regime <a href=“https://www.theguardian.com/world/2021/sep/26/naybib-bukele-el-salvador-president-coolest-dictator“>(The Guardian, 2021)</a>. Most notoriously, the federal government and police have jailed more than 100,000 people in the last five years under emergency powers they declared necessary to fight the gangs that had been terrorizing the country for the past several decades. However, many of the folks incarcerated were not given full trials, and are now held in prisons with violent, inhumane, and sometimes torturous conditions <a href=“https://www.hrw.org/news/2025/03/20/human-rights-watch-declaration-prison-conditions-el-salvador-jgg-v-trump-case”>(Human Rights Watch, 2023</a>; <a href=“https://www.npr.org/2023/03/30/1167085307/the-sunday-story-the-price-of-peace-in-el-salvador“>NPR, 2023)</a>; this also made American headlines when the Trump Administration sent undocumented immigrants (also without trial) to CECOT as part of their immigration crackdown <a href=“https://www.nilc.org/resources/tracking-the-cecot-disappearances/“>(National Immigration Law Center, 2025)</a>.
 
-    - Item 1
-    - Item 2
-        - Sub-item
-    1. First item
-    2. Second item
-    
+Given this context - and fully understanding our position as (relatively) wealthy foreigners interacting with other tourists and Salvadorans serving us - we have been struck by the number of conversations we have had in which people have expressed gratitude for the improved sense of safety in the country. 
+
+A mom, finally able to show her family her birthplace. We met her on a hike of the Santa Ana volcano as she was trying to corral four kids to “stick together.” In between, she told us that she had left El Salvador when she was twelve for the United States and was “so, so, so happy that I would never have to come back,” because there was a feeling that “on every corner, you could get mugged, kidnapped… or worse.” She was resigned - and partly relieved - that her kids would never be able to see where she grew up. It was only in the last few years that she has felt safe returning with her family, and is now exploring parts of the country she never even dared venture to when she was growing up.
+
+A nurse (J) whose parents recently returned to their country of origin to enjoy retirement. They had to leave sometime during the great period of violence that extended from the 70’s through the 2010’s, as civil war turned to armed gang conflict and displaced more than 1 million Salvadorans, or 20% of the population. Among the fortunate ones, J’s parents were able to flee to the United States as well, where they raised her. Only in the last few years could they ever consider retiring in “their homeland”, a dream they are now able to realize.
+
+A scuba instructor (F) from Italy; now considering operating tours in El Salvador thanks to the increased tourism of the past several years. Like J, his parents have also returned to El Salvador for retirement. They are grateful for the new government, and “happy to be back after their country was taken from them.” Like many of the folks we’ve met, F represents a lost generation for the country, kids who were born or grew up abroad and built successful businesses and careers elsewhere, an incalculable amount of wealth (economic, yes, but especially human) lost for the country, with small fractions only now just returning.
+
+Our car mechanic (C), finally proud of his country. He lived through the war and its aftermath, sometimes with little to eat and always with not much to do or places to go for fear of crossing the wrong territory. At some points, he lived abroad with his family. With the situation improved, they’ve now returned to El Salvador and own several businesses. “I used to consider myself a bit of an un-patriot; I rooted for the U.N. and all humanity over everything else. Only in the last three years have I felt some pride being Salvadoran.” With the return of security and stability, C is now a part of the quickly growing entrepreneurial upper-middle class all working very hard to rebuild the country and establish their businesses as leaders for the future.
+
+Again, I think it is important to emphasize that we are only interacting with a very specific subset of people. Generally worldly and definitely better-off than the average citizen here. Several also tourists, and therefore much less likely to feel any pain from the crackdown. Talking to us. We did not speak with those in prison or those who now fear the government, so we cannot tell their story, but we keep their lives in mind just as much as the folks we did talk to. 
+
+The tale of El Salvador is devastating to anyone who is familiar with the last two-to-three hundred years of Central American history. Colonialism gave way to governments ill-equipped to manage such large territories, leading to monied interests quickly dominating. Globalization resulted in crop specialization (<a href=“/el%20salvador/cafe/“>coffee in the case of El Salvador</a>), which reduced indigenous peoples to cheap labor and devastated the ecosystem. A growing awareness and push for socialist policies and rights quashed by a U.S.-backed military regime as part of the Cold War <a href=“https://www.migrationpolicy.org/article/el-salvador-civil-war-natural-disasters-and-gang-violence-drive-migration“>(Menjívar and Gomez Cervantes, 2018)</a>. The ensuing civil war lasted twelve years and, when it ended, left a poor country with too many guns, not enough food, and people who only knew conflict. The resulting gang conflicts “worse than war,” leaving even more dead and many more fearing for their safety with territories, loyalties, and consequences even more confusing than ever <a href=“https://experts.illinois.edu/en/publications/el-salvador-in-the-aftermath-of-peace-crime-uncertainty-and-the-t/“>(Moodie, 2010)</a>. In this light, it is understandable that so many people here are willing to sacrifice the freedom of a few potentially wrongfully convicted souls for the safety and security of the rest.
+
+As Salvadorans look to the future, they battle with many of the same demons that seem to be afflicting other nations in the twenty-first century. With the country now open, there are concerns that the wealthy will once again come to dominate land and politics. Social media and technology make it easier for the government to control their narrative. Reporting good journalism is both more difficult and with less of an audience than ever. We have experienced nothing but kindness while we’ve been here, so for the sake of this country, our country, and the world, we hope that we can balance the need for safety and security with human and legal rights for all peoples.
+
+\comment{I am not sure how to organize the last three paragraphs. I think that all the points are important, and many I am happy with the wording. But I am not sure if the message if driven home or diluted with this many words.}

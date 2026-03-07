@@ -35,7 +35,7 @@ Independent of our friends, Antigua Guatemala itself was also a very cool town, 
   <img src="/assets/images/2026-01-19-hobbitenango.jpg"  class="img3">
   <img src="/assets/images/2026-01-19-starbucks.jpg"  class="img4">
 </figure>
-<figcaption>(left) Arya enjoying the local laundry well. (middle) Art from the modern art musuem. (right-top) Hobbitenago, a town made after Lord of the Rings. (right-bottom) Starbucks courtyard.  </figcaption>
+<figcaption>(left) Arya enjoying the local laundry well. (middle) Art from the modern art museum. (right-top) Hobbitenago, a park modeled after The Lord of the Rings. (right-bottom) Starbucks courtyard with gorgeous flowers, mosaics, and art.  </figcaption>
 
 (For anyone reading this and considering a shorter trip (aka, not in a camper van) to Guatemala, I would recommend Antigua due to its charm and convenience as tour companies use the city as a launch point for volcano hikes, Lake Atitlán, and other cool adventures.)
 
