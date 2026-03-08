@@ -37,6 +37,6 @@ The next day, we indulged the foodie within us at <em>La Feria Gastronómica</em
 
 
 {% include figure.html popup=true image_path="/assets/images/2026-02-08-foodfestival.jpg" %}
-<figcaption>Friends from Texas and us at the food festival.</figcaption>
+<figcaption>Friends and us at the food festival.</figcaption>
 
 We wrapped up our week in Nahuizalco, which had one of the more active citizenry that I have seen; despite being a rather small town, it seemed that every street was bustling with pedestrians. This was especially true in that evening, as the entire town gathered for a night market. Rather tired from our long week, we largely kept to the edges, taking in the music and pleasant weather while sipping <em>atole de piña</em>, a fitting way to conclude our time in the region.
