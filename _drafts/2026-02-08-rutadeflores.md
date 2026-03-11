@@ -41,7 +41,7 @@ The next day, we indulged the foodie within us at <em>La Feria Gastronómica</em
 
 \addpic{food festival}
 
-We wrapped up our week in Nahuizalco, which had one of the more active citizenry that I have seen; despite being a rather small town, it seemed that every street was bustling with pedestrians. This was especially true in that evening, as the entire town gathered for a night market. Rather tired from our long week, we largely kept to the edges, taking in the music and pleasant weather while sipping <em>atole de piña</em>, a fitting way to conclude our time in the region.
+We wrapped up our week in Nahuizalco, which had one of the more active citizenry that I have seen; despite being a rather small town, it seemed that every street was bustling with pedestrians. This was especially true that evening, as the entire town gathered for a night market. Rather tired from our long week, we largely kept to the edges, taking in the music and pleasant weather while sipping <em>atole de piña</em>, a fitting way to conclude our time in the region.
 
 \addpic?{the one where we made the face if you want to}
      
