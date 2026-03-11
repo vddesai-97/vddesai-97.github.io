@@ -13,12 +13,12 @@ Cause kids are idiots </em>
 
 <em>Clark, this isn’t a road</em>
 
-soon followed by <em>Might as well just tree fall</em>
+soon followed by <em>Might as well just fall</em>
 
 <em>Go Go GOO!!!</em>
 
 <em> honk honk!! Use the honk! The lights, flash them! </em>
-Clark <em> beep </em>
+Clark: <em> beep </em>
 
 
 If you ever want to hear how I would say it, just give me a call and we’ll catch up. Finally, my thoughts on all this: it’s very difficult being a backseat driver with Clark 
