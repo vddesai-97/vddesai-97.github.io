@@ -246,7 +246,7 @@ collections:
     permalink: /v-vomits/:title
   comms:
     output: true
-    permalink: /c-scicomms/:title
+    permalink: /c-comms/:title
 
 
 # Defaults

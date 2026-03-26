@@ -6,7 +6,7 @@ layout: page
 
 
 <ul class="post-list">
-    {% for post in site.comms %}
+    {% for post in site.comms reversed %}
         {% include post-list-item.html %}
     {% endfor %}
 </ul>
