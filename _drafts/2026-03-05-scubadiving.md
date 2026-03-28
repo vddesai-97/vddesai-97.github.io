@@ -1,10 +1,10 @@
 ---
-layout: post or blurb
-title: 
-author: 
-location: city, state, country
-date: 
-category: country 
+layout: post
+title: An Underwater Frontier
+author: Vrinda Desai
+location: Utila, Atlántida, Honduras
+date: 2026-03-05
+category: honduras 
 post_description: summary for social media
 ---
 
@@ -24,7 +24,13 @@ So Arya was enjoying the hostal life, and we were too.
 
 Scuba diving itself is a whole nother story. Our first day, we practiced safety and gear use right off the beach. And the first time we went under with all of our gear on to 2 m under surface, I was struggling. I believed that scuba diving was not for me and that maybe I will just learn how to free dive (which I still will). The reason being, I couldn't stay on the floor of the ocean and I couldn't figure out this breathing thing with gear and I kept coming up. I soon got the hang of it, and the rest of the training session went smoothly.  Clark struggled with not having air, which is something we practice multiple times throughout the whole certification. Pretending to be out of air, asking someone to share air with you, getting the spare mouth breather thing, and then cleansing it of water before breathing in the air. Clark also got the hang of this with practice. 
 
-Now, we were ready to go to 18m! Boy was that something. We did 4 dives over the course of two days where we practiced swimming, running into issues like googles filling up or no air, descending and ascending, and trying to maintian buoyancy so we are neither sinking or floating up. 
+Now, we were ready to go to 18m! Boy was that something. We did 4 dives over the course of two days where we practiced swimming, running into issues like googles filling up or no air, descending and ascending, and trying to maintian buoyancy so we are neither sinking or floating up. It was quite a challenge when we had to navigate between the coral reef walls without touching the coral reef with our gear. I was very excited to practice my skills in this course. 
+
+After having completed the Open Water course, and knowing how affordable we were doing this in Utila, I convinced C to stay here for a few more days and knock out the Advanced Open Water course. This course allowed us to further define our navigation skills, go down to 30m, perfect bouyancy, explore a shipwreck, and go night diving, which is a whole nother world. To achieve this and still make it to Nicaragua with enough time, we ended up doing 4 dives one day and three the next. This was insane and absolutely exhausting, but woah. The artificial shipwreck we visited was also a time to perfect swimming with gear on and not running into the wreck itself. We even got to see a huge snapper that had been hiding in the masthead. Now, the night dive which was our last dive was incredible. It's dark, so we use flashlights to observe the wildlife and our group spotted an octopus, an eel, a puffer fish, massive lobsters, a lionfish, and a humongous hermit krab (that I found). I can see why night dives are such a you either 'love it' or 'hate it' kind of dive. 
+
+This week has us eager for more dives, and a certain Don Hickman is already thinking about future dives we could do together. 
+
+
 
 
 
