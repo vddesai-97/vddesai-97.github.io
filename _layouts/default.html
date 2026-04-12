@@ -21,6 +21,14 @@
     {%- endif -%}
 
   </head>
+
+  <header class="site-header">
+    <div class="social-media-header">
+    {% include social-media.html %}
+    </div>
+    {% include menu.html %}
+  </header>
+
   <body>
 
     {{ content }}

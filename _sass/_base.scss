@@ -1,3 +1,21 @@
+.site-header {
+  top: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 1000; /* Ensures it stays above other content */
+  background-color: $brand-color;
+  padding: 0 0;
+}
+
+.social-media-header {
+  display: flex;
+  float: right;
+  margin-right: 1.5rem;
+  margin-top: 1rem;
+  background-color: $brand-color;
+}
+
 body {
   background: $brand-color;
   color: $text-color;
