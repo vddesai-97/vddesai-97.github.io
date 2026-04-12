@@ -1,0 +1,23 @@
+email:
+  id: 'arya@travelingstinkbug.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'travelingstinkbug'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fab fa-facebook-square'
+
+instagram:
+  id: '@travelingstinkbug'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fab fa-instagram-square'
+
+github:
+  id: 'vddesai-97/vddesai-97.github.io'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fab fa-github-square'
