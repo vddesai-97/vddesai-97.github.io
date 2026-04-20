@@ -1,0 +1,42 @@
+---
+layout: post
+title: No Man's Land
+author: Vrinda Desai
+location: The Border, NI-CR
+date: 2026-03-23
+category: Costa Rica 
+post_description: summary for social media
+---
+
+Border crossings. Full of paperwork, stamps, exchanges of money, and so much rigid or flexible bureaucracy up to the discretion of the person at the window. A time of excitement and worry. Excitement for the country you are entering, sadness for the one you are leaving, and worry about all the complications that could arise.
+
+Our very first border crossing was intense and full of excitement as we were crossing into Mexico and starting our journey after months of hardwork and unforseen challenges. Desite assuming we would pass relatively easy as Americans, this was the one that *almost* stopped the journey before it even started. We were told we couldn't enter with our car because it had been modified on the inside and did not have the VIN number on the doorframe (the previous owners had painted over it), which the officials insisted they needed despite the number in the windshield. The Mexican 'DMV' (Banjercito) said it would be an issue with the military, but after some pleading, the military approved us only for the Banjercito to say no again... Finally, the military offical let us know that we could take our chances at a different Banjercito location further into the country. Three hours later, we had our temporary import permit for the car and we were on our way. This was just one example where one official follows the rules to the tee, another is flexible, and common sense would say that they just needed the one VIN to confirm the car is what it is in the first place. 
+
+Heading to the upcoming Nicaragua-Costa Rica border, we had heard the crossing with a pet could be difficult and required multiple steps and payments along the way. However, nothing prepared us for the ultimate headaches we faced. As in Mexico, multiple times we found one official insist one thing, only to be repudiated later in the process. While I list the exact hassle we faced in order below, I will first include an excerpt from Clark about this entire situation. 
+
+> "The most frustrating part of the bureaucracy is that not only does everyone insist on following the rules, but each individual seems to understand these rules slightly differently. From the first (deceptively helpful and cheery) administrator who told us we “were good to go” to the next (crabby and unsympathetic) who said “there’s nothing I can do,” we have been exchanged from person to person with no one willing or able to tell us exactly what it is we need to complete. A worker says one thing only to be contradicted in the next step by a different cog in the machine. We wait for hours because “this is what we have to do” only to talk to a more helpful bureaucrat later and find out he could have done that very thing in minutes. Sometimes we go in circles, talking to the same folks we talked to earlier that day because a different person thinks they might have the answer, even though they had already passed us off…."
+
+\addpic{our van at the border}
+
+Now for the actual process we experienced in our 36 hours at this border (Honestly if you want to skip all of this I don't blame you. Just remember we didn't have this luxury living it!):
+1. We arrive at noon to exit Nicaragua. Knowing that Arya may need extra paperwork, we ask a woman who quickly says she will give us the appropriate stamp to cross "no problem." We get our exit stamps, did the Aduanas (customs) for the car, and left NI with a $3pp fee and $1 pp entry building fee. We drive the kilometer to the border into CR.
+2. We enter Costa Rica with no fees for immigration stamp. Get to the Seneca (agriculture and pets) and are told that we need more papers for Arya and we are not allowed to get a car permit without this either. 
+3. Vrinda walks back and forth between the NI and CR buildings (roughly 1 km apart and it is hot), talking to the agriculture officials to figure out how to get this document that we need. Later, we both complete the same walk again and talk to another Nicaraguan offical for half an hour; she says we need to complete payments inside a bank in NI (which we have already left!) and to come back with receipts tomorrow.
+4. After accepting that it just was not going to happen on a Sunday evening, we then had to figure out where to park because CR would not let us park at their building and we couldn't stay in NI as we had already exited. After driving the length of the border two times and to ask different officials ("Go this way. Go that way. Not here."), the police finally take pity and let us park right in the middle of the two countries.
+5. We are out of fresh groceries, so a dinner of noodles with a peanut butter sauce is whipped up. We text friends in NI to see if they can make the bank payments in the morning so we don't have to re-enter the country and pay all of the fees again.
+
+\addpic{the one where "we" are in three different locations}
+
+The next day:
+5. We wait for S (a friend in Granada) to go to the bank, and due to complications it takes over 5 hours before we finally get receipts of $13 and 550 cordobas (~$15) deposits to the various agriculutural branches of the Nicaraguan government. Meanwhile, lunch consists of six veggie nuggets, split evenly. (We never did find the mythical border Walmart...)
+6. Clark needs to enter NI to get the documents from them to show to CR Seneca, but the border guard won’t let him enter the building until he "exits" CR (an issue we did not face the day before). 
+7. He walks the km over and exits CR with a $8 exit fee. He walks the km back. Did I mention that it is really hot?
+8. On the NI side, he talks to IPSA (agriculture), who needs a VUCEN (another agriculture) number, but through email exchanges VUCEN relays that they need us and Arya to present ourselves at their office (which is NOT AT THE BORDER!). They call our vet and he helps us out and visits the VUCEN office to vouch for us. (Our vet is probably the unsung hero of this story; without this intervention we probably would've had to completely re-enter NI and totally missed meeting our friend visiting CR.) Once we have the VUCEN number, IPSA can proceed but they do not accept the $13 deposit we had already made via S, so we make another one to them directly (which we had been told we could not do the day before). Given that the office closes at 430pm, we are grateful to have completed this step by 420. Yikes. Now we have the document! 
+9. Arya is now good to go, but the same NI guard won't let Clark walk past his building without an exit stamp NI for that day (the one from the previous day didn't count...). Clark walks back to the NI building to "enter" NI only to turn around and "exit" it immediately. (C's note: The entry customs agent was confused when I told him my destination was the border exit next door.) He gets into a very very long line and gets entry and exit stamps for a $13 entrance fee and a $3 exit fee. 
+10. Meanwhile, Arya and I headed over to CR to get her permit. The same woman who rejected us on Sunday barely glances at the document that we worked hard to obtain and gives us the stamp in less than two seconds.
+11. Clark still has not come back from NI, and without any cellular, I walk back to the border, but do not cross, waiting for him. 
+12. Finally, he is able to enter CR and we pay a $65 fee for car "insurance" (even though we already have insurance) and we are good to go by 630pm. 
+
+The fact that we had a bowl of peanut noodles, yogurt and granola, and 6 pieces of veggie nuggets over the course of those 30 hours meant we needed food ASAP and that was our very first stop in Costa Rica. We treated ourselves to Indian, which was absolutely delicious, but also when we realized that Costa Rica will not be as affordable as the rest of the countries we have been to. Altogether not a great introduction to the country.
+
+Not a journey I wish on anyone. Not a time I wish to experience again. Lesson learned to not do a border crossing on holidays or weekends ever again. 
