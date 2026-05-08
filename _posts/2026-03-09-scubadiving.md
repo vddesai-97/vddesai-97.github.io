@@ -2,7 +2,7 @@
 layout: post
 title: An Underwater Frontier
 author: Vrinda Desai and Clark Hickman
-location: Utila, Atlántida, Honduras
+location: Utila, Atlántida, HN
 date: 2026-03-09
 category: Honduras 
 post_description: "A bucket list item achieved. We took a detour from our originally planned route to travel to Utila, a Honduran island in the Caribbean, which is known for its scuba diving and a great place to get our certification. After arriving, we had some doubts: between juggling Arya at the hostel, going through (a lot) of reading, and difficulties with some initial scuba skills, we were not sure we were cut out to be divers. Only a couple of days later, we had undergone a complete 180. The calm underwater, the ability to observe unique ecosystems, and the friends made along the way. It was a once in a lifetime experience; naturally, we can't wait to do it again."

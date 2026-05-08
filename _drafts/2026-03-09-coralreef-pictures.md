@@ -2,7 +2,7 @@
 layout: post
 title: "On Life Support: Diving in a Decaying World"
 author: Clark Hickman
-location: Utila, Atlántida, Honduras
+location: Utila, Atlántida, HN
 date: 2026-03-09
 category: honduras 
 post_description: During our dives to get our scuba certification, Vrinda and I were in awe of the enormity and beauty of the underwater world. However, we were deeply saddened too. At times, it felt like we were swimming through a graveyard, with corals mostly devoid of color and very few animals around. Being scientists, we are well aware of the impacts that our species has had on the planet. Being humans, we are devastated when faced with such an obvious example of how those impacts are overwhelming our fellow living creatures.
