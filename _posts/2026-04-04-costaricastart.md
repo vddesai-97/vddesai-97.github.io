@@ -6,25 +6,33 @@ location: Santa Ana, San José, CR
 date: 2026-04-04
 category: Costa Rica 
 post_description: Despite living a life full of freedom, adventure, and plenty of relaxation, we still have times when we struggle. Between constant movement, language barriers, and the extra time dedicated to packing and unpacking our "home" each day, van life can be tiring. After a whirlwind month traversing three countries, we arrived in Costa Rica a bit worn down. We were greeted with a horrific border crossing, high gas and grocery prices, and hot temperatures. Add it all up and, despite traveling through one of the most gorgeous countries in the world, we're mostly just wanting a place to rest. While this week wasn't the best, we know there will be many better ones on the horizon.
+rainforest:
+  - url: /assets/images/2026-04-04-rainforest1.jpg
+    image_path: /assets/images/2026-04-04-rainforest1.jpg
+  - url: /assets/images/2026-04-04-rainforest2.jpg
+    image_path: /assets/images/2026-04-04-rainforest2.jpg
 --- 
 I wasn't sure how to frame this piece, and even as I am writing this now, I don't have great confidence that I am threading the needle correctly. On one hand, it feels greedy to claim "boredom" or "feeling stuck" when we are traveling full-time for a living, able to get up and move whenever we might like, exploring countries that are on most folks' bucket lists, and lucky enough to see something new every day. At the same time, we want to be as transparent as possible about our adventures, capturing our trip in full, with both external and internal influences creating our experience. And after a whirlwind month moving quickly through Honduras and Nicaragua \addlinks{scuba and nicaragua}, we are a bit burnt out. We have had more difficult weeks \addlink{difficult week in El Salvador} and we have had boring days before, but this extended malaise was challenging in a whole new way. Hopefully, though, it has taught us how to meet this challenge, and how we can make each day our own for the rest of the journey.
 
 Our first 48 hours "in" Costa Rica were particularly rough. With a family friend vacationing for several days along the southwest coast, we tried (and failed) to cross the border on a Sunday so that we could spend a few days with her. Instead, we got stuck at the border for 36 hours \addlink{border}, immediately drove for six more to get to Uvita, and got kicked out of a public shower for leaving our dog in the car for a couple of minutes. (Despite leaving her with water and several fans running, we were warned that Ticos are very sensitive to dogs barking from inside vehicles. A big problem for our reactive dog, even if she is ultimately fine as we step out to run quick errands.) Ultimately we only got to spend a single - wonderful! - evening with our friends before they had to leave for the airport the next morning. Totally gassed, we spent the next two days crashing next to a quiet river on the outskirts of town, relishing the time to do nothing. For better and for worse, neither of us are really wired for extended periods of "doing nothing," however, which started to get to us in the coming week.  
 
-\addpic?{river sunset or Arya in the river}
+
+{% include figure.html popup=true image_path="/assets/images/2026-04-04-river.jpg" %}
+<figcaption> Arya enjoying the cool river in the heat and humidity of our first day in Costa Rica. </figcaption>
 
 Other factors contributed to our uncertain times at the start of our Costa Rican adventure. For one, the country is by far the most expensive that we have visited so far, with our grocery budget exceeding even what we spent in the US. (And don't even get us started on gas, although some of that may be attributed to the actions of our president...) This extends to the many national parks, reserves, and tourist-facing adventures. To top it off, Arya is, understandably, often not allowed in these spaces. While we appreciate the extra effort to protect the wildlife here, it does make our type of travel much more difficult. So, we improvised, hopping along from beaches to mountains to towns, but unable to enter many of the more famous and biodiverse parks and attractions.
 
 After a couple of days of recuperation in Uvita, we moved slightly up the coast to <em>Playa</em> (beach) Hermosa. The beach was gorgeous, complete with an adjacent river where we could cool off in the shade when the sun got too hot. And boy did it get hot. Despite the picturesque views, we were starting to feel the effects of our extended time at lower elevation near the equator; there is no home with AC to return to when our temperatures (literal and figurative) start to rise. Onward to the mountains!
 
-\addpic?{beach if we have one}
-
 Where we put the "rain" in rainforest. We did succeed in finding cooler weather (truly the most important factor at this point) and enjoyed a very pleasant afternoon at the Eco Chontales waterfall along the way to San Isidro and San Gerardo de Rivas. However, clouds built up around midday each day, bringing rain within a couple of hours and keeping us huddled in our car reading. (Again I recognize that this sounds like we're disparaging what most folks would love to spend their evenings doing. And we absolutely relished it the first day! The fourth, not so much...) Understanding we likely wouldn't be through this part of the country again, we doubled down and drove higher, parking along the continental divide at over 10K feet of elevation. Colder(!) yet and with a very different ecosystem - more mountain tundra than anything we've seen yet on this trip - the space captured our fascination for a couple of hours. But, unsurprisingly, the clouds rolled in even earlier here (reliably at 10am each morning) forcing us inside yet again. After two more days of this, we were low on power (re: no solar) and ready to break out of our car, even if it meant returning to warmer climes.
 
-\addpic{us rained out at Cloudbridge, any other pics from the mountains}
+{% include gallery.html id="rainforest" %}
+<figcaption> A very rainy hike. </figcaption>
 
 In an effort to regain some consistency to our days, we had found a Workaway to volunteer at back near the Pacific coast, and we spent the next several days slowly driving over there, with stops in Cartago, Santa Ana, and along a steep mountain highway with a gorgeous sunset view. All of these places were totally adequate, with nice views and even a Taco Bell stop along the way :D. But the constant movement was wearing, with Vrinda accurately noting that spending the extra hours to drive up and down the mountains only to park for the night was pretty exhausting.
 
-\addpic{sunset?, mantra walk pic of Arya}
+
+{% include figure.html popup=true image_path="/assets/images/2026-04-04-mantras.jpg" %}
+<figcaption> Pet-friendly hike with many 'picturesque' stops along the way. </figcaption>
 
 More than ten days into our time in Costa Rica and we're still a bit out of sync. With the constant travel. With the cost. With the extra consideration we need to put into home and pet. And this led us to be a bit out of step with each other too, stemming from and contributing to our restlessness and feelings of unproductivity. (And yes, we are both aware that as diligent workers, we almost certainly could learn from times like these how to just exist without something to work on.) We are fully cognizant that our "boring" weeks are still a privilege when we still get to spend time hiking, reading, and camping along one of the most diverse countries in the world. And there will almost certainly come a time when we long for slower speeds! For now, we're ready to find a bit more consistency in our schedule and to focus on the next great adventures that await.
