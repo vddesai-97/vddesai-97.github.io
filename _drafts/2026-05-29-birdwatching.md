@@ -1,0 +1,39 @@
+---
+layout: post
+title: Birdwatching for the Soul
+author: Clark Hickman
+location: Boquete, Chiriqui, PA
+date: 2026-05-29
+category: panama 
+post_description: summary for social media
+stage: 1st edit
+---
+We saw one the very first time we went looking. Sort of. On our way down from Volcan Tajumulco in western Guatemala \addlink{}, we stopped at <em>Refugio del Quetzales</em> for a short hike to stretch our legs and hopefully see the majestic quetzal. We declined the additional expense of the guide, figuring that even if we didn't suceed on this hike, we would surely find one eventually given the prominent promotion of the creature throughout the country! A couple of hours later, we were disappointed to have not seen one on our two-mile trek, and relayed our difficulty to a family just entering the trail, wishing them better luck. Not twenty steps later, they ushered us back! We pointed our binoculars into the tree they were pointing at, but lacking the language nuances that would help us identify the exact branch and not wanting to spook the bird by moving too much, V and I struggled to find the proper line of sight to see it. And then it fled, a streak of brown (female) and green feathers that was just enough to give us a tease but not really able to say we truly saw the bird. We didn't know then that this would be the most we'd see of one for nearly six more months.
+
+\addpic{any from refugio del quetzales}
+
+Having watched our fair share of Attenborough-style nature documentaries, we knew about the beauty of the quetzal before embarking on this trip. We hadn't known, however, just how culturally significant the bird is. Literally within the first week of our journey, a stop at the Museum of Anthropology in Mexico City informed us that the species has been sacred to the people of Central America since the time of the Mayans. Indeed, the connection to Quetzalcoatl, the Aztec god of the sun, winds, and wisdom, is right in the name! In Guatemala, the quetzal is not just the national bird, it is probably the biggest symbol of national identity and pride. Even the currency is named <em>quetzals</em>, a nod to indigenous cultures in which taxes were paid via quetzal tail feathers, plucked carefully so as to not harm the sacred bird. Surely, with all of this iconography and importance leading to numerous, well-protected habitats, we would eventually stumble our way into one.
+
+\addpic{https://www.google.com/imgres?imgurl=https://cdn2.picryl.com/photo/1550/12/31/quetzalcoatl-1-7144ce-small.jpg&tbnid=54fGKh77G78l6M&vet=1&imgrefurl=https://garystockbridge617.getarchive.net/amp/media/quetzalcoatl-1-7144ce&docid=TWGlTcRSNMYZuM&w=319&h=479&itg=1&hl=en-us&source=sh/x/im/m1/3&kgs=415c2d3d8bdb8cd4&shem=epsdc,rimspwouoe&utm_source=epsdc,rimspwouoe,sh/x/im/m1/3 from wikimedia commons}
+
+Only we never had any luck in Guatemala. Or El Salvador. We didn't spend any time at elevation in Honduras or Nicaragua, thus missing out on the cloud forests that they call home. Costa Rica, however, offered us another chance. Having struck out to this point, we began to seek out hikes and reserves known for their sightings. We hiked several <em>Senderos</em> (Trail) <em>Los Quetzales</em>, visited our fair share of "Quetzal Reserves," and even drove 3000 feet down a mountain just to visit a town that largely exists thanks to its eco-lodges specializing in quetzal-based tourism. All to no avail. At a certain point, we began wondering if it was all worth it.
+
+\addpic{any that are relevant. maybe birdwatching with tulsi. maybe san gerardo de dota.}
+
+As we became increasingly invested in catching just a glimpse of this mystical being, we ourselves began to change. We hiked slower. Stopped more often. Listened to the bird calls and began to distinguish among many of them. We got up with the sun (or even a little before it) to catch the early birds. We began to observe the world more keenly, discerning little differences that might make for better habitats for birds and animals alike. We felt more connected to our surroundings, just a couple of individuals in a world inhabited by innumerable beings.
+
+And we saw a lot. Toucans and toucanetts. Parrots and parakeets. Hummingbirds, orpendolas, kingfishers, anhingas, and grackles. A pair of curassows on a hike in La Fortuna. Lesson's Motmot fooled us once or twice thanks to it's bright green (and blue) plummage; a gorgeous bird in it's own right. Scores of tanagers and finches and wrens. The Merlin Bird ID app from Cornell took our birding knowledge to an entirely different level, identifying individual calls for us and highlighting when a new bird sounded out. I could finally say things like, "ah, so it's the gray-breasted wood-wren that is so, so loud all the time." In all that time, we never did see a quetzal, but, by its very absence, this single species had opened up an entirely new way to see the world.
+
+\addpic?{do we have any good ones of birds that we've seen? Would we want to do a couple from the internet?}
+
+We arrived in Panama after some hairy adventures near the end of our time in Costa Rica \addlink{} hoping to chill in the cloud forests around Volcán Barú. At the national park, we decided to try our luck on yet another early morning "Quetzal Hike." A gorgeous trek. Plenty of birds. No quetzals. The next morning the rangers were kind enough to try and call the reclusive birds to us, playing a soundtrack of quetzal calls on their speaker for nearly an hour in hopes that we might catch a glimpse if a curious specimen was in the area. Nada. We thanked the rangers for their effort on our behalf and they encouraged us to keep trying, as the area had a decent population and our search simply required calm, vigilance, and, most of all, patience. 
+
+\addpic{any from the hike or ranger station that you'd like. I'll also mention the rangers in the panama post.} 
+
+Before heading all the way back to the town of Boquete (about half an hour below the park), we stopped for one more short waterfall hike. Being the middle of the day, we saw this more as a way to stretch our legs and take in a pretty cascade than a great opportunity for birdwatching. A couple of kilometers in, however, we heard an unmistakable sound that stopped us in our tracks. Unmistakeable both because the call is so unique and we had just spent an hour that morning hearing it on repeat! High up a massive tree, tucked somewhere in the foliage, was a quetzal. As gently as we could, we tiptoed around trying to find the best angle to finally see one. To be so close, it was hard to contain both our anticipation and our angst that we still couldn't find it! Then, a flash of wings. It was gone. We (quietly, gently) followed back down the trail. And, silohuetted on an outstretched branch against the overcast sky, the extraordinary telltale tail of the male quetzal! Unfortunately the lighting was not the best for us to appreciate the splendid colors, but it was easy to see why the bird inspired such awe, from its regal posture to its elaborate tail - at least two feet in length - it cut a unique and impressive figure. We soaked in the view for half a minute before the bird took off again, perhaps spooked by several incoming hikers. Not nearly long enough to take a picture, or to feel fully satisfied, but enough. For now.
+
+\addpic?{obv we don't have one of the quetzal. We could grab one from the internet but im inclined not to. Could also do any of the waterfall hike?}
+
+As we head to South America, our search for more quetzals will be put on pause. But we are equally excited to see completely new sights and sounds; and we can thank the quetzal for reminding us to be even more aware and sensitive to our surroundings. Perhaps it was best that we didn't catch a specimen on that very first hike. 
+
+\comment{let me know what you think of conclusion. Not sure if it felt forced or not}
