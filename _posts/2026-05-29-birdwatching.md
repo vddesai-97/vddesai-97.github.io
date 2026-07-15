@@ -11,8 +11,11 @@ We saw one the very first time we went looking. Sort of. On our way down from <a
 
 Having watched our fair share of Attenborough-style nature documentaries, we knew about the beauty of the quetzal before embarking on this trip. We hadn't known, however, just how culturally significant the bird is. Literally within the first week of our journey, a stop at the Museum of Anthropology in Mexico City informed us that the species has been sacred to the people of Central America since the time of the Mayans. Indeed, the connection to Quetzalcoatl, the Aztec god of the sun, winds, and wisdom, is right in the name! In Guatemala, the quetzal is not just the national bird, it is probably the biggest symbol of national identity and pride. Even the currency is named <em>quetzals</em>, a nod to indigenous cultures in which taxes were paid via quetzal tail feathers, plucked carefully so as not to harm the sacred bird. Surely, with all of this iconography and importance leading to numerous, well-protected habitats, we would eventually stumble our way into one.
 
+<div style="display: flex; justify-content: center;">
 {% include figure.html popup=true image_path="https://cdn2.picryl.com/photo/1550/12/31/quetzalcoatl-1-7144ce-small.jpg" %}
+</div>
 <figcaption>Many of the pre-Hispanic Mesoamerican cultures had an important deity based on the quetzal. Most famously, Quetzalcoatl was the Aztec god of the sun, wind, wisdom, and learning.</figcaption>
+
 
 Only we never had any luck in Guatemala. Or El Salvador. We didn't spend any time at elevation in Honduras or Nicaragua, thus missing out on the cloud forests that they call home. Costa Rica, however, offered us another chance. Having struck out to this point, we began to seek out hikes and reserves known for their sightings. We hiked several  <em>Los Quetzales</em> <em>Senderos</em> (trails), visited our fair share of "Quetzal Reserves," and even drove 3000 feet down a mountain just to visit a town that largely exists thanks to its eco-lodges specializing in quetzal-based tourism. All to no avail. At a certain point, we began wondering if it was all worth it.
 
