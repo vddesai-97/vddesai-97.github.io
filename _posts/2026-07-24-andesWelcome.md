@@ -5,6 +5,7 @@ author: Clark Hickman
 location: El Cocuy, Boyacá, CO
 date: 2026-07-24
 category: colombia 
+tag: favorites
 post_description: The mountains have long been some of my favorite natural settings, and South America is home to the longest range in the world. The Andes stretch along the entire western edge of the continent, offering countless hikes, spectacular nature, and a variety of wonderful climates. After leaving Colombia's Caribbean coast, we began the first of many mountain adventures, with wonderful stops in Los Estoraques National Park and Barrichara. We capped off our time with a trek all the way to El Cocuy, where the peaks and glaciers loom over high-tundra farms and Espeletia-filled valleys. The first of many wonderful journeys as we weave in and out of the Andes over the next year of our travels.
 barrichara:
   - url: /assets/images/2026-07-24-barricharasushi.jpg

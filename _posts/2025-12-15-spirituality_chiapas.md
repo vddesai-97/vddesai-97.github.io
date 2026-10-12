@@ -5,6 +5,7 @@ author: Clark Hickman and Vrinda Desai
 location: San Cristobal de las Casas, Chiapas, MX
 date: 2025-12-15
 category: mexico
+tag: favorites
 ---
 
 

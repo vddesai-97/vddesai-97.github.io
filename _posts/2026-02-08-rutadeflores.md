@@ -4,7 +4,7 @@ title: <em>Ruta de las Flores</em>
 author: Clark Hickman
 location: Nahuizalco, Sonsonate, SV
 date: 2026-02-08
-category: El Salvador 
+category: ElSalvador 
 post_description: Our first week in El Salvador was spent along <em>La Ruta de las Flores</em> (that’s Flower Road for you Mario Kart players), a beautiful string of small villages winding through the mountains of the western part of the country. Linked by the highway and tourism, each <em>pueblo</em> nevertheless has a distinct charm to it, something we appreciated as we slowly traversed the region.
 waterfall:
   - url: /assets/images/2026-02-08-clarkrappeling.jpg

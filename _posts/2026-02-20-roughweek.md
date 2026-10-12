@@ -4,7 +4,7 @@ title: Not All Weeks are Glorious…
 author: Clark Hickman
 location: La Unión, La Unión, SV
 date: 2026-02-20
-category: El Salvador
+category: ElSalvador
 post_description: Some weeks don’t make it to vanlife social media. Living in a mechanics shop, taking emergency measures to recharge the house batteries, navigation errors, and simply trying to exist in 95-degree heat when our “home” is jet-black and has no AC, the past seven days contained nearly all of the worst-case scenarios imagined when we first started this journey. And we got through it. Sometimes a bit worse for wear, sometimes with lessons learned, and always just plain tired. But we also proved to ourselves that we can weather these kinds of weeks, and even spin some aspects into a positive light despite the difficulties.
 garage:
   - url: /assets/images/2026-02-20-car.jpg

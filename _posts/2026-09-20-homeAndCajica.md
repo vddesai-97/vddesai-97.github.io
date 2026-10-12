@@ -5,6 +5,7 @@ author: Clark Hickman and Vrinda Desai
 location: Cajicá, Cundinamarca, CO
 date: 2026-09-20
 category: colombia 
+tag: kindness
 post_description: On either end of our trip back to the United States to visit family, we spent time in the Bogo preparing to leave - and then return to - van life. The transition on both sides was a bit difficult, as the two lifestyles are dramatically different and each required a period of adjustment. We also needed to organize care for the van and Arya while we were away. This was a pretty big logistical challenge, but was made all the easier by friends around the region. In particular, we are forever indebted to the Sastres, who welcomed us into their home on a day when we were exhausted, and ended up helping us organize a ton of our work on both sides of our travels, becoming lifelong friends in the process.
 cajica:
   - url: /assets/images/2026-09-20-farmersmarket.jpg

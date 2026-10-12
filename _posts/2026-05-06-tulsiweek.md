@@ -4,7 +4,7 @@ title: Flying Objects vs. Sister
 author: Vrinda Desai
 location: La Fortuna, Alajuela, CR
 date: 2026-05-06
-category: Costa Rica 
+category: CostaRica 
 post_description: Taco Bell, sloths, attempts at bird-watching and success at bird-fleeing, waterfalls and rivers, cheap and deluxe pizzas, and hikes to accompany it all. 
 monteverde:
   - url: /assets/images/2026-05-06-waterfall.jpg
@@ -31,7 +31,7 @@ Our first destination: Monteverde. Known for its cloud forests, diverse array of
 {% include gallery.html id="monteverde" %}
 <figcaption>(left) El Tigre Waterfalls. (middle) Bird-watching in Curi Cancha Reserve. (right) Enjoying the views of the cloudy rainforest. </figcaption>
 
-We drove around Lake Arenal on our way to the next destination and stopped at <a href="/costa%20rica/peacefulArenal/">Nuevo Arenal</a> - where Clark and I had camped the week before - for pizzas and beer with a lakeside view. Due to a very busy day at the restaurant, we ended up waiting nearly an hour longer for the food than we had anticipated. Afterward, the staff graciously offered us brownies as a gesture of appreciation for our patience, which we very excitedly accepted (who can say no to brownies?). 
+We drove around Lake Arenal on our way to the next destination and stopped at <a href="/costarica/peacefulArenal/">Nuevo Arenal</a> - where Clark and I had camped the week before - for pizzas and beer with a lakeside view. Due to a very busy day at the restaurant, we ended up waiting nearly an hour longer for the food than we had anticipated. Afterward, the staff graciously offered us brownies as a gesture of appreciation for our patience, which we very excitedly accepted (who can say no to brownies?). 
 
 This meant, though, that we had reached our town of Colonial Trinidad (in the La Fortuna area) in the dark... We were a little lost due to some poor cell signal and crummy Google Maps directions, and, in the ensuing chaos of trying to find our Airbnb, we rolled into a deep ditch while trying to back out of a wrong turn. As deep as the tire itself. As I was standing outside, evaluating what could be done and slowly losing hope as the car was so tilted and the tires looked to be going in opposite directions, neighboring folks and motorcyclists driving by started coming over to see what was going on and how to help. Within minutes, I found myself alongside roughly a dozen men with unmistakable Dad Energy, all diagnosing the problem and attempting to push the car while C revved the engine. Eventually, an older man who was passing by in a truck had an idea and the tools to get our car out. Unfortunately, the first iteration involved our rear bumper (the <a href="/mexico/bikerack/">same one damaged in Mexico</a>), but we pivoted, wrapping the tow rope around a cement pillar and attaching to our front bumper to torque the Stinkbug out as he revved his truck and many of the other men pushed. And wah, our car was out of the ditch. My Spanish was nonexistent (as tends to happen when my brain is too exhausted), but expressing gratitude and joy easily transcends language barriers. Thank god for the kindness of people.
 
