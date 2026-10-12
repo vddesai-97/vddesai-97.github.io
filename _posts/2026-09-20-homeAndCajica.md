@@ -1,0 +1,51 @@
+---
+layout: post
+title: Family In All Forms
+author: Clark Hickman and Vrinda Desai
+location: Cajicá, Cundinamarca, CO
+date: 2026-09-20
+category: colombia 
+post_description: On either end of our trip back to the United States to visit family, we spent time in the Bogo preparing to leave - and then return to - van life. The transition on both sides was a bit difficult, as the two lifestyles are dramatically different and each required a period of adjustment. We also needed to organize care for the van and Arya while we were away. This was a pretty big logistical challenge, but was made all the easier by friends around the region. In particular, we are forever indebted to the Sastres, who welcomed us into their home on a day when we were exhausted, and ended up helping us organize a ton of our work on both sides of our travels, becoming lifelong friends in the process.
+cajica:
+  - url: /assets/images/2026-09-20-farmersmarket.jpg
+    image_path: /assets/images/2026-09-20-farmersmarket.jpg
+  - url: /assets/images/2026-09-20-train.jpg
+    image_path: /assets/images/2026-09-20-train.jpg   
+return:
+  - url: /assets/images/2026-09-20-marimar.jpg
+    image_path: /assets/images/2026-09-20-marimar.jpg
+  - url: /assets/images/2026-09-20-swivel.jpg
+    image_path: /assets/images/2026-09-20-swivel.jpg   
+  - url: /assets/images/2026-09-20-volleyball.jpg
+    image_path: /assets/images/2026-09-20-volleyball.jpg   
+---
+
+Having lived on the road for nearly a year now, the word "home" has a multitude of meanings for us. In the most immediate sense, our van is, of course, our home on wheels, where we go for respite from the outside world. Given that we are constantly on the move, we will often refer to the street or neighborhood where we parked as "home" as well, so that "heading home" could indicate simply returning to the next-door park or a regularly frequented cafe. Of course, home also means the U.S., although we may be referring to our family homes (Indiana and Minnesota) or our adopted state of North Carolina. And finally, occasionally, we will be lucky enough to be invited into someone else's home such that it becomes our temporary one for a short period, a wonderful gift to break up some of the solitude of life on the road.
+
+In this way, during the month of August, we left our home (the Stinkbug) in our current home country (Colombia) to get some repairs completed while we returned home (the US, to all three states and then some) to visit family. While balancing the logistics of all these moving parts, we met one of the kindest families on our journey to date, who generously welcomed us into their home and gave us a base from which we could organize the various errands and hurdles as we left and returned to van life on either side of our travels.
+
+Cajicá, a town of extreme kindness. A suburb north of Bogota -- where we would be flying from in a week -- we attempted to make it our final stop before entering the city; in part because Bogota restricts days we are allowed to drive (called <em>pico y placa</em>: an effort to reduce congestion and emissions) and in part because we agreed to meet up with friends there (<a href="/colombia/minca/">our container buddies!</a>) for a final meal of Indian food before they continued onwards to Ecuador and beyond. However, it turned out that parking anywhere in town was complicated, with small and crowded streets not suitable for overnight parking and no suggestions on the iOverlander app. We tried our luck at the plaza of Cajicá, where a farmer's market was closing for the day. After inquiring with the security guard, however, we learned that extended parking was not allowed here either. Fortuitously, as we had been pulling in, a few guys had been really excited upon seeing our car and the bikes on it. It turned out that they worked at the market and were nearby as we made our request. As we trudged back to the van, resigned to drive around longer in search of parking, one of them hurried over and -- within a minute of meeting us and hearing about our parking quest -- offered a spot outside his home. This is how we came to know Fabian and the Sastres. 
+
+{% include gallery.html id="cajica" %}
+<figcaption>(left) An uncle works the Sastre family booth at the Cajicá Plaza Market. (right) Mama Sastre shows us the train depot in downtown Cajicá.</figcaption>
+
+The Sastres didn't just offer us a spot to park; they welcomed us into their home and their lives. Just after arriving, we were introduced to the rest of the family, and Fabian's mom quickly placed a full dinner in front of us despite mild protestations that we didn't want to impose too much. (This became a regular pattern that we came to accept; making food for any and everyone clearly brought her immense joy). She and the rest of the family were very interested in our travels, and we did our best to answer all questions large and small in our mediocre Spanish, with Fabian translating when necessary. The next day we were treated to a tour of the town, both for errands (tailor, electronics store, etc.) and tourism (the Cajicá train depot and arts center). And we made a stop at the farmers market and were treated to some of their homemade specialties -- cheese and milo (a honey-type chutney). Eventually we needed to make our way to Bogotá, but not before promising to return after our US travels. 
+
+The final days in Bogotá were mostly busy organizing the final logistics before our flight. Arya was given lots of love and walks around the city before being dropped at the dog-sitters (a friend of <a href="/colombia/shipping/">our friend from Cartagena!</a>). While we packed for our many travels, the van was also being cleaned and prepped to be left for a month. We then left it at the mechanics for an extended tune-up -- much needed due to the challenge of extensive garage time while also living in it. (And who would pick our car up to store it once it was done? Fabian, of course!!) The final night in the van, we had a restless sleep, hoping that we had remembered everything to pack, to leave, to secure, and to store, and anxious to leave our home of the past nine months. A little anxious, too, to return to the American lifestyle.
+
+Our time back in the United States was not static. Constantly on the move in some form or fashion. We visited 8 states and 9 homes, traveling via both car and airplane, to visit as many family and friends as possible. There was also an internal shift between the first half of our trip and the second half. Where we had begun a little nervous about our return to the States and slightly overwhelmed by it all, we eventually became a little concerned that we would struggle going back to the Stinkbug, where we would miss our family and reenter a much different lifestyle. This shift led to some personal reflections on how we wanted to spend the next several years. While we plan to finish our time in South America slowly and luxuriously (C's note: luxurious is a strong word, but we did make improvements to the Stinkbug when we got back!), we are also looking forward to (eventually) returning to the US, settling down, and having our community within reach.
+
+<figure class = "figure-grid4">
+  <img src="/assets/images/2026-09-20-girls.jpg" class="img1">
+  <img src="/assets/images/2026-09-20-concert.jpg   " class="img2">
+  <img src="/assets/images/2026-09-20-cousins.jpg  "  class="img3">
+  <img src="/assets/images/2026-09-20-auntyuncle.jpg  "  class="img4">
+</figure>
+<figcaption>Our time in the US was packed full of events, friends, and family, including: (first panel) a wedding in Georgia, (second panel) a Brandi Carlile concert in Madison, (third panel above) another wedding in Ohio, and (third panel below) visiting family in Western North Carolina.</figcaption>
+
+After a month of a very different kind of travel, the return to the Stinkbug was predictably a bit rocky, but made much better with the help from our community in Colombia. Clark's first night back was spent in the Bogotá apartment of the former Hickman-family exchange student. (She joked that it was only fitting since she had "my" bedroom while I was off at college!) He returned to Cajicá to collect the Stinkbug, only to drive it back into Bogotá to complete the permit extension the following day. Meanwhile, the inside was a bit of a mess as we unpacked our clothes, travel items, and new goodies purchased in the States (the highlight: a swivel seat base to allow us to use the passenger seat for both travel and home). The emotional high of the weekend was reuniting with Arya, who received plenty of apologetic belly rubs and would hardly let us leave her sight for the next 48 hours.
+
+After a couple of more days around Bogotá, we returned to Cajicá, ostensibly to offer our help to the Sastres for their kindness, but receiving even more warmth from them as well. We spent a morning helping out at the farmer's market, an afternoon aiding the construction of their new lactose-packaging building, and an evening troubleshooting a recently acquired food heater. More delicious food was shared with us, and more family members stopped by and warmly greeted us and made us feel like long-time family friends. We were even gifted some scrap wood from which to make a new "center console" for the car to allow us to make use of our swivel base. After several days, it came time to say goodbye to the family with promises to stay in touch. Our friendship had become such that it was hard to believe that we had only met six weeks before. Even halfway around the world, some folks just make you feel at home.
+
+{% include gallery.html id="return" %}
+<figcaption>Our return to Colombia was made all the better by: (first panel) spending a day with M (and newborn L!), a former Hickman-Kaplan exchange student, (second panel) installing a new swivel seat, although Arya hopes it might be for her, and (third panel) attending a local volleyball match of Fabian's, where Clark helped warm the team up.</figcaption>
