@@ -5,8 +5,10 @@ layout: page
 <h5> {{ content }} </h5>
 
 
+{% assign category_posts = site.posts | where: "tag", "comms" %}
 <ul class="post-list">
-    {% for post in site.comms reversed %}
-        {% include post-list-item.html %}
-    {% endfor %}
+  {% for post in category_posts %}
+    {% include post-list-item.html %}
+  {% endfor %}
 </ul>
+

@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+<h5> {{ content }} </h5>
+
+
+{% assign category_posts = site.posts | where: "tag", "favorites" %}
+<ul class="post-list">
+  {% for post in category_posts %}
+    {% include post-list-item.html %}
+  {% endfor %}
+</ul>
+
