@@ -1,0 +1,36 @@
+---
+layout: post
+title: Stinkbug 2.0
+author: Clark Hickman
+location: Manizales, Caldas, CO
+date: 2026-10-28
+category: colombia 
+post_description: summary for social media
+stage: 1st draft Editing
+---
+
+It's hard to believe it's been a year since we <a href="/unitedstates/beforetheborder/">crossed into Mexico</a> and totally changed the way we live our lives. Time is funny, somehow it feels like it's both been longer and shorter since we made that leap. We've changed a lot in that year, gotten much more comfortable in this lifestyle, and also have begun to look forward: to the next steps of this journey, yes, and also to our future after we're completed our time in South America. In the nearer term, as we've settled into our van, we've come to appreciate changes and home impovements that would improve our daily existance; it seemed only fitting that we should make the appropriate upgrades to launch the start of the second year of our adventure!
+
+\addpics?{could do some sort of collage or before and after of us a year ago and us today? Kinda up to you though}
+
+You might think that after spending <a href="/unitedstates/thestart/">four months building our van</a>, we'd largely have completed every project you could think of in a space only 6 x 6 x 10 feet. Far from it. Eager to get on the road after a long summer and very excited at the possibility of arriving in Mexico City in time for <em><a href="/mexico/diadelosmuertos/">Dia De Los Muertos</a></em>, we knew that, even as we took off, small touch-ups would be needed to make our van totally functional. And, of course, taking your home on the (sometime very bumpy) road will lead to more <a href="/mexico/bikerack/">wear-and-tear that needs repair</a> than your traditional stationary structure. The repair work wasn't all physical either; consolidating our lives into such a tight space while frequently on the move led to friction within our relationship as well, and we learned (and are still learning) how to navigate through individual and shared frustrations and annoyances while more isolated from friends and family than we ever have been before.
+
+Having survived the initial bumps and bruises, we started to settle into van life. By and large we've grown to love it: the ability to wake up to a different scene every couple of mornings, meeting new places and people, finding joy in the simple things. We've also learned things that would help us to improve our time. For starters, while we've embraced the freedom of travel, we have come to appreciate that adding some structure to our daily and weekly routine keeps us purposeful and steady, from something as simple as waking up at a consistent time each morning to finding time to work on our interests throughout the week. Within a van where every inch of space counts, we've found some places where that space could be better spent. And so, with the second year of our travels approaching, we took the opportunity to plan some improvements to our living quarters, taking advantage of bringing back some things from our <a href="/colombia/homeAndCajica/">return to the United States</a>, and spent the last couple of months implementing them, culminating in a week around Manizales, CO where we finished many of our projects. Stinkbug 2.0 is ready to go.
+
+\comment{this all^ feels a bit long, but also reflective of our year. Lmk what you think or if there are places that could be tightened.}
+
+Our reimagined home started as soon as we returned to our van from the States. Having traveled a year listening to our road trip playlists on a $10 Walmart speaker, we were stoked to install a Bluetooth audio and maps system that actually connected to our forgotten car speakers, allowing us the freedom to not have to choose between music and open windows and even enabling us to listen to audiobooks without needing to frequently rewind because we missed a few sentences. Next up, a swivel seat base for our passanger car seat. Vrinda did the hard work, putting the 20-lb anchor in her backpack to get it to our home. Installation was easy and, <a href="/colombia/homeAndCajica/">thanks to our friend Fabian in Cajicá</a>, we were able to rebuild the console between the car seats to give the seat room to rotate. In such a small car, the joy from adding one more place to sit is immeasureable.
+
+\addpics{swivel seat and/or carplay and/or center console}
+
+We hadn't originally intended to spend much time in Manizales, but, on our life improvement kick, we recognized it could be a good place to finish up some of the projects. It was big enough that we were able to find a shop to repair our well-weathered bicycles and a tailor to complete our reimagined dual-use pillows, but small enough that we could escape the city and spread out at a park or campsite during some of the larger projects. 
+
+\addpics{view from chalet san luis, parque bosque?}
+
+And so we got to work. Our lineoleum-tiled floor was starting to show some cracks in the kitchen area, so we tore it up to discover why. Irreparable water damage as it turns out. With full credit to Vrinda and her many ideas, we pivoted, making our kitchen space more driable while keeping the tiles for the living room space. We took some of the salvagable tiles and applied them to our next project: making dedicated spaces for our shoes, which, even though we don't have very many, had developed a habit of crowding the entryway no matter how many times we put them up. Not to stop there, we also rebuilt our stovetop shelf, adding an extra layer to it without changing the overall dimensions so that we could have more horizontal space on which to store many of our frequently used items. We even finally got around to repairing our gray water tank system, whose main hose we had lost on (literally) our first day driving over <a href="/mexico/topes/">the Mexican topes</a> (we attached this one much more securely).
+
+\addpics{kitchen transistion?, new entryway, new stove?}
+
+A main goal of all of our projects was reducing the amount of clutter we had strewn about the car. In such tight quarters, it's all to easy to things to pile up and distract the eye and the mind. Somehow we had gone an entire year transporting 5+ items from the front to the back every time we transistioned from driving to living. Now we have one, a much more manageable task. 
+
+In the same vein, we have gotten rid of much of our life clutter along the way as well. We strive to focus less on the small things that we cannot control, or the inevitable balance of resource management, or the partner who we just cannot stand at that moment, and more on the moments, big and small. And when we fail, we pick ourselves back up and repair and forgive (each other and ourselves), shedding much of the mental clutter that sometimes took away from our enjoyment and peace during our first year. As we look back on the last year of our lives, it's crazy to think about how far we've come - both literally and figuratively - and how lucky we are to have experienced it all. We're even more excited for year two.
