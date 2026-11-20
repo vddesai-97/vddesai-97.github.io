@@ -1,0 +1,42 @@
+---
+layout: post
+title: <em>Eje Cafetero</em>
+author: Clark Hickman
+location: Armenia, Quindio, CO
+date: 2026-11-10
+category: colombia 
+post_description: summary for social media
+stage: 1st draft writing
+---
+
+Coffee. It fuels so much of the world (and, increasingly, this journey) and is so ubiquitious in modern culture that it can be moderately surprising to remember that the go-to drink for more than half of Americans only became globably popular in the past two hundred years or so. In that short time, however, the plant has revolutionzed entire economies... and sometimes even led to revolutions. We've been privilaged to be drinking some truly great <a href="/ecuador/cafe/">local varieties in our travels</a> so far; nowhere has that been more true than Colombia, the world's third-largest coffee producer behind only Brazil and Vietnam. The country has untold acres of perfect terrain to grow the crop, and it has infused its way into the local culture in many of the departments (states) and regions. This is especially true in <em>Eje Cafetero</em> (The Coffee Triangle), where we spent several weeks enjoying picturesque towns and natural splendors while imbibing plenty of this addictive substance along the way.
+
+\comment {add a link or two for revolutions through coffee. probably a good throughline episode on it}
+
+South of Medellín, the town of Jerico was a perfect introduction to the region. Tucked inside the rolling hills of the central <em>cordillera</em> \comment{check spelling, geography} of the Andes lies colorful houses and an exquisitely pink church that attract visitors from around the region. Several accessible and dog-friendly hikes surround the town, leading to sprawling views of the valley. By far the highlight, however, was visiting several coffee shops in and around the town square, where we enjoyed everything from a caramel macchiato to a simple <em>p...</em> \comment{what was the word}, all brewed from beans grown by local <em>campesinos</em>.
+
+\addpics{jerico}
+
+After several days, we continued onwards to Jardín. Our trek there was a bit rough (literally); we were unwise to take the "shortcut" rather than retrace our steps on the highway and ended up on some of the bumpiest roads of our travels so far, with several portions of the road recently rebuilt after a recend flood and still concerningly muddy. We got in well after dark and parked in next to a large stadium wall and some road construction. Perhaps this initial impression colored our view, but we felt as though Jardín was similar but slightly larger, dirtier, and more touristy than its spiritual neighbor. The houses were still bright and colorful, the coffee good, and the church pretty (although theirs a more understated gray than bright pink), but it was hard not to compare the two and determine that we probably hadn't needed to make the extra drive to see them both \comment{too harsh to jardin?}. Distinctly, we did enjoy some fantastic local ice cream and a new <em>gulapa</em> drink that introduced us to our new favorite fruit for this phase of our travels.
+
+\addpics{jardin}
+
+Having luxuriated in the cute towns of the region, we moved onwards to the more urban Manizales, the largest city in the (Coffee) Triangle, where we focused more on productive things like fixing our van. We've written about our time there <a href="/colombia/stinkbugYear2/">elsewhere</a>, but we did leave a day or two for fun. By far the highlight was a day trip up to the park entrance of Nevado Ruiz, one of the largest volcanoes in the country. A trek to the summit was off the table because of the current geologic activity level, but we still were dazzled by the ever-changing colors of the sunset reflecting through the alpine clouds and a clear morning hike that took our breath away (at over 13,000 feet, I mean this literally).
+
+\addpics{nevado ruiz}
+
+With a little over a week spent in and around the city, we were ready to return to a more secluded and green setting. Our first stop was definitely the latter, as we spent an afternoon and evening relaxing in the thermal pools of Santa Rosa de Cabal, which sit just underneath one of the prettiest waterfalls we've ever seen, with the cascading river splitting into five or six nearly symmetrical paths on its way down the jungle canopy. Taking the half day for bodies and minds was the perfect way to conclude our practical time in Manizales.
+
+\addpics{santa rosa termales}
+
+Onwards to the Rio Barbas, which certainly met both standards for both secluded and green, almost too well. We descended the last kilometer or so down a very steep and moderately muddy gravel road that made us question whether our desire to really get into nature was worth the potential for getting stuck <a href="/CostaRica/puravida/">yet again</a>. It did not help matters that - on the afternoon we had planned to leave - a thunderstorm dumped so much rain on the valley that it literally created a small river under our car within minutes... The river was nice to cool off in and we trekked through the jungle on several enjoyable hikes, but the constant humidity started to get to us by the end of our stay (not to mention made it impossbile to dry our river-washed clothes). For those wondering, we were able to drive out the next morning without too much trouble or spinning tires.
+
+At first, we had a hard time believing we had only driven an hour. Despite their promixity, the high and largely dry Cocora Valley was worlds different than the warm and humid river, in large part thanks to its location tucked underneath two of the tallest mountains in Colombia. This unique climate makes for the perfect habitat for the towering wax palms, which can reach heights of up to 200 feet despite having trunks often much skinnier than oaks of the same age (both being able to live hundreds of years). We completed one of our favorite hikes to date, with a landscape changing every kilometer or so from the palms watching over livestock pastures to peaking out through pine forests (also amazingly skinny and tall) to disappearing altogether as we entered a jungle with brilliant flowers framing a beautiful river and waterfalls. (A reminder: even though the experience is tropical, the glacial river is no joke, as we found out when attempting a quick bath at the end of our hike. The Gustavus ice baths have no purchase of the Rio ...). 
+
+\addpics{cocora}
+
+Energized by our wonderful time in Cocora, we spent a couple of more lovely days in the valley in the town of Salento. Like Jerico and Jardin, it featured brightly painted houses and some great (and some touristy) coffee shops. My favorite part, however, was the network of trails leading up right to the edge of town and a spectacular <em>mirador</em>, from which we could look up at Cocora and the behemoths lurking above. Arya and I woke up for a fantastic sunrise each morning where I enjoyed watching the shadows change the complexion of the mountains and the clouds capping the tallest peaks and Arya liked the activity of the early birds flitting about (we could not convince Vrinda to join, no matter how much we told her there was to see). It was a little hard to leave such a setting, but we had one more piece of business to get to before leaving the region for good.
+
+And that was reuniting with our friend Carlos, whom we had <a href="/guatemala/atitlanantigua/">first met in Guatemala</a> and <a href="/CostaRica/puravida/">last seen in Costa Rica</a>! Carlos is from Armenia, another city at the southern end of the region, and we were able to visit him while he was visiting family. A bit like Manizales, we don't have a whole lot to write home about from the city itself, except that cities always increase your time finding wonderful people. In addition to several dates catching up with Carlos, we also had one with a new friend, Eduardo, a history writer whose street we had parked on during our stay there and whose family was the most gracious to us. It is only fitting that our hosts, both old and new, insisted on doing just one thing every time we met up: sitting down for a cup of coffee and letting the day go by.
+
+\comment{we haven't written about guatape yet. Should that go here? in medellin post? Just don't write about it? My inclination is not bother with it}
