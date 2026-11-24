@@ -6,7 +6,7 @@ location: Armenia, Quindio, CO
 date: 2026-11-10
 category: colombia 
 post_description: summary for social media
-stage: 1st draft writing
+stage: 1st draft editing
 ---
 
 Coffee. It fuels so much of the world (and, increasingly, this journey) and is so ubiquitious in modern culture that it can be moderately surprising to remember that the go-to drink for more than half of Americans only became globably popular in the past two hundred years or so. In that short time, however, the plant has revolutionzed entire economies... and sometimes even led to revolutions. We've been privilaged to be drinking some truly great <a href="/ecuador/cafe/">local varieties in our travels</a> so far; nowhere has that been more true than Colombia, the world's third-largest coffee producer behind only Brazil and Vietnam. The country has untold acres of perfect terrain to grow the crop, and it has infused its way into the local culture in many of the departments (states) and regions. This is especially true in <em>Eje Cafetero</em> (The Coffee Triangle), where we spent several weeks enjoying picturesque towns and natural splendors while imbibing plenty of this addictive substance along the way.
